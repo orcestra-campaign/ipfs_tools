@@ -23,6 +23,7 @@ meta:
 
 Currently known `tags` are:
 
+* `bahamas`: For BAHAMAS data
 * `catalog`: For catalogs: they are important and should be quickly retrievable for everyone, but usually aren't very big in size.
 * `dropsonde`: For dropsonde data
 * `radiosonde`: For radiosonde data
