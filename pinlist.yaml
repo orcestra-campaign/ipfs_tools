@@ -1,3 +1,4 @@
 - cid: Qma5iQpnMD6F4YMVf8Ks5DAJLKCcUwRzPmKH4oZRKFZPPu
   name: dropsondes v1
-  tags: [dropsonde]
+  meta:
+    tags: [dropsonde]

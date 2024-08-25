@@ -38,5 +38,5 @@ cat pinlist.yaml | yq .[].cid | xargs ipfs pin add -r
 A simple way to e.g pin only dropsonde data could be:
 
 ```bash
-cat pinlist.yaml | yq '.[] | select(.tags.[] == "dropsonde").cid' | xargs ipfs pin add -r
+cat pinlist.yaml | yq '.[] | select(.meta.tags.[] == "dropsonde").cid' | xargs ipfs pin add -r
 ```
