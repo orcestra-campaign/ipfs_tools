@@ -2,3 +2,31 @@
   name: dropsondes v1
   meta:
     tags: [dropsonde]
+- cid: QmbmtXr3pSGexuteUAcasgAzSHHpfKNXk9r5JfZXKqa2d5
+  name: QL_HALO-20240811a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmcFHpX6zNcG7kFjUNff8BEUkoYomwpnTJUAjhXq9KACtg
+  name: QL_HALO-20240813a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmahYozz3StbbeJxXn7zPycdZYz6mLVNYszEU28XqxSMGc
+  name: QL_HALO-20240809b_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmXnuuipS3xFE3mX7ZGRti55NapwSRVsBMPDfvnTMkSLoj
+  name: QL_HALO-20240821a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmSjsEFDywceEDLxs2zHfcj1GuRATDosgw9fwsFT5bAX8x
+  name: QL_HALO-20240818a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmethFGpJ5jg8ASnS3kcQPDN6bct4g85DBh2HWQQqj7DXb
+  name: QL_HALO-20240822a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmTCph5sHoq9pcXLHyHix2qAVmSCBjvLmbPCfx2QgVs13a
+  name: QL_HALO-20240816a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
