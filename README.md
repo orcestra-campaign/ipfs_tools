@@ -23,6 +23,7 @@ meta:
 
 Currently known `tags` are:
 
+* `bahamas`: For BAHAMAS data
 * `catalog`: For catalogs: they are important and should be quickly retrievable for everyone, but usually aren't very big in size.
 * `dropsonde`: For dropsonde data
 * `radiosonde`: For radiosonde data
@@ -38,5 +39,5 @@ cat pinlist.yaml | yq .[].cid | xargs ipfs pin add -r
 A simple way to e.g pin only dropsonde data could be:
 
 ```bash
-cat pinlist.yaml | yq '.[] | select(.tags.[] == "dropsonde").cid' | xargs ipfs pin add -r
+cat pinlist.yaml | yq '.[] | select(.meta.tags.[] == "dropsonde").cid' | xargs ipfs pin add -r
 ```
