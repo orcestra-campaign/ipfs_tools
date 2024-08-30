@@ -30,3 +30,7 @@
   name: QL_HALO-20240816a_BAHAMAS_V01.zarr
   meta:
     tags: [bahamas]
+- cid: QmWg2cjBLtc5bCvLj6GbrM1y34ff53sKj5Ca44XkxmMReG
+  name: bahamas_1
+  meta:
+    tags: [bahamas]
