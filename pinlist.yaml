@@ -34,3 +34,42 @@
   name: bahamas_1
   meta:
     tags: [bahamas]
+- cid: Qme5LKQjdRte8hnajS2zQwMu3qeViGrRavrnkcsaYk5v1T
+  name: QL_HALO-20240809b_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmQ5GpT44Hnssi4DbXPK6Z9LnYjwh3ujEJ3KPjQ45Km3qF
+  name: QL_HALO-20240811a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmYY2UeRuUxupUJrDrGYWfwrg3c3QvteMrsVWvvRviHcsW
+  name: QL_HALO-20240813a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmRiQecHaN6JUkkNDHGEcHo8hgvbxwza7NKyJL9VBuyNrR
+  name: QL_HALO-20240816a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmTNWVTaRf5JswXAGKagB3SQTDaoZMusTpBwHdBHVEefZE
+  name: QL_HALO-20240818a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmY3dUQr3NH9D72BMBK3b64ujncX5vJhJmzPcmAjRoNwFa
+  name: QL_HALO-20240821a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmYjyJrqsi7uAGFQKZJoSy5N3vn1JU3pD1FcdDyVK33E2Z
+  name: QL_HALO-20240822a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmWYAHzWScbkMzhAZSEHqr8efWPEmp2zK6uF8jM8S2pxbw
+  name: QL_HALO-20240825a_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmWB3tzrxqi73GbgDvXUEPsXabg48htWyY9NPaZ51uXYSH
+  name: QL_HALO-20240827b_BAHAMAS_V01.zarr
+  meta:
+    tags: [bahamas]
+- cid: QmRowAYXPjTk48JB8A38fvmksho4hTw3wwf3ubEsXTjN8c
+  name: BAHAMAS (Meta directory)
+    tags: [bahamas]
