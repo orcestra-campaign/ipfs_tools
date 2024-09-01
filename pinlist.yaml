@@ -72,4 +72,65 @@
     tags: [bahamas]
 - cid: QmRowAYXPjTk48JB8A38fvmksho4hTw3wwf3ubEsXTjN8c
   name: BAHAMAS (Meta directory)
+  meta:
     tags: [bahamas]
+- cid: QmSfmv1T6G7ZrCiNqX9PWU34LSKGpzeJJqCEtw1KvD1Mtu
+  name: Radar moments 20240809
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmYQBHd68ecJfibCosYwFRRHefCWPRNoMcqxoJ3qKr7hEg
+  name: Radar moments 20240811
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmXiLhx2Yj5BBTmXAeiXmt1yS7wQmCtTf76PGB4qoxCDTj
+  name: Radar moments 20240813
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmYEHtH81RrirvxhBudGrqY37ngvwoD37cGmFEqtSbQMj7
+  name: Radar moments 20240816
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: Qme7i17ScSgsah7QhheP9PJKP9oswSijRHjQyNzkHTSQaD
+  name: Radar moments 20240818
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: Qme6u2tmkaVENAhbvREbrQHoDf4S96nivXJj3nyeUZZq4z
+  name: Radar moments 20240821
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmRqfTsd5q3Yz3CnD1CQhMoe7oNNbxUACS3pjhKMYRw8DS
+  name: Radar moments 20240822
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmQVdi2DCFzHaFRF9SAQ1n3iRCjSGvZ1HyhpVwrrHozuPy
+  name: Radar moments 20240825
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmZikcgvzHJ3U5KyTX1aNpfj7sfA1sG63vN17BeVizEpG2
+  name: Radar moments 20240827
+  meta:
+    tags:
+    - hamp
+    - radar
+- cid: QmdUKa7CH8hGpqyLdYYrssqYDEuYvh7BbheUrdhpxWF8UA
+  name: Radar moments 20240829
+  meta:
+    tags:
+    - hamp
+    - radar
