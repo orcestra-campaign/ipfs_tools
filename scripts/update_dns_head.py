@@ -1,6 +1,9 @@
 import os
+import re
 import json
 import requests
+
+dnslink_re = re.compile("^/(?P<namespace>[^/]+)/(?P<identifier>.+)$")
 
 
 def get_config_dir():
@@ -55,12 +58,19 @@ class DNSApi:
         res.raise_for_status()
 
 
+def is_valid_dnslink(link):
+    return dnslink_re.match(link) is not None
+
+
 def main():
     import argparse
 
     parser = argparse.ArgumentParser()
     parser.add_argument("ipfs_link", help="IPFS link, e.g.: /ipfs/CID")
     args = parser.parse_args()
+
+    if not is_valid_dnslink(args.ipfs_link):
+        raise ValueError(f"The provided link ('{args.ipfs_link}') is not a valid dnslink. Did you forget the prefix '/ipfs/' before a CID? See https://dnslink.io for more info.")
 
     api = DNSApi()
 
