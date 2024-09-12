@@ -11,6 +11,10 @@ products:
         HALO-20240822a.zarr: QmYjyJrqsi7uAGFQKZJoSy5N3vn1JU3pD1FcdDyVK33E2Z
         HALO-20240825a.zarr: QmWYAHzWScbkMzhAZSEHqr8efWPEmp2zK6uF8jM8S2pxbw
         HALO-20240827a.zarr: QmWB3tzrxqi73GbgDvXUEPsXabg48htWyY9NPaZ51uXYSH
+        HALO-20240903a.zarr: QmVNXeZQsZzCByRvXXm1ndrnv6rid4YxMmJYnFqB43FZCe
+        HALO-20240906a.zarr: QmcESLyGgcjbMg59F5xMU5LAgqL86zpUik7n9zquhyjHD8
+        HALO-20240907a.zarr: QmeV7UJmk5HNnFWpedfLMwMUFZzhTrvHPL84o7h1L7QjU9
+        HALO-20240909a.zarr: QmYhzw4P3CzARBcMjP4bALpJpk98qmmkqvNJbjpXBcJonR
     radar:
       moments:
         # this is unclear: HALO-20240809b
