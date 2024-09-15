@@ -58,6 +58,10 @@ raw:
   HALO:
     radar:
       moments:
+        HALO-20240718a:
+          20240718_1001.nc: QmV6JS8YMJNmLG1wFC8RDypdyCQUtpBMuLaqxi1vDMH8p2
+        HALO-20240730a:
+          20240730_0829.nc: QmTp1fz5oUsJWzrDWeHHPpxcXowj7wwUccjz2rtvaqsg7y
         HALO-20240811a:
           20240811_1215.nc: QmVNftBT4yDQjdJzR6RBs3MHGKXSTVDVxv14BC1EiJMDkm
         HALO-20240813a:
@@ -65,6 +69,8 @@ raw:
           20240813_1711.nc: QmYxfv75gntQMNzfdXhJJHvwN8NHGrx6YCNMoSKJ8zjWSW
         HALO-20240816a:
           20240816_1151.nc: QmdHGveufCWt4bDsVAVNtHR5K6RzCxK8611n3xoDbThpe5
+        HALO-20240821a:
+          20240821_1234.nc: QmVNtnD1nK4ygeTXXXXVkB8X9UhBcEzomkFHShU152zSwC
         HALO-20240822a:
           20240822_1134.nc: QmRA9fBjYNnQdboBEDWFgVyGJ8GGPMjYqjgTweosFNPpuw
         HALO-20240827a:
@@ -73,12 +79,15 @@ raw:
           20240829_1233.nc: QmT68Cz3mQmTycNTfC6WchpPCymUzbssrD7F8HRKD44S6K
         HALO-20240831a:
           20240831_0901.nc: QmXHiq81nAPn4Z5T5T44aMFCMz6iYgjLqjFMegXvgNd5hi
+        HALO-20240903a: 
+          20240903_1141.nc: QmUto3ykXFUcfu5rZVR83wCeMFZXvghdyVX7xtPaREkPC3
         HALO-20240906a:
           20240906_1049.nc: QmeSoK1vSRB15bnybPj6WPZ5CekezpYtniyJH1HFSP4Rqv
+        HALO-20240907a:
+          20240907_1319.nc: QmTZXwQYvtDpkP9wCi3FBeTEu4sogZw7B5z7TGR3ueVDFS
         HALO-20240909a:
           20240909_1153.nc: QmbpGWie77bvCbuhrDxKqApPfzjY74axE9wtJV2yKWfxLh
         HALO-20240912a:
           20240912_1147.nc: QmX6Ui7dFF56rWPNu2BuGo5nMt4T9K99YYYTkvnJNrCWM7
         HALO-20240914a:
           20240914_1141.nc: QmWoCPokjVBh2xhuXFMouVHiuSo7LHSNGDKgUH8WshCTrh
-
