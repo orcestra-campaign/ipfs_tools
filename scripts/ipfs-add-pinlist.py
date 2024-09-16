@@ -16,6 +16,29 @@ def add_pins(pinlist):
     for pin in pinlist:
         cid = pin["cid"]
 
+        if (prev := pin.get("meta", {}).get("prev")) is not None:
+            # If `prev` meta key is present, try to update this CID.
+            ret = subprocess.run(
+                ["ipfs", "pin", "update", prev, cid],
+                capture_output=True,
+                text=True,
+            )
+
+            try:
+                ret.check_returncode()
+            except subprocess.CalledProcessError:
+                no_parent = "Error: 'from' cid was not recursively pinned already"
+                if ret.stderr.strip() == no_parent:
+                    # If the update fails, fall back to simply adding the pin.
+                    pass
+
+                already_there = "Error: 'to' cid was already recursively pinned"
+                if ret.stderr.strip() == already_there:
+                    continue
+            else:
+                # If the update returns wihtout error we can continue
+                continue
+
         if (name := pin.get("name")) is not None:
             subprocess.run(["ipfs", "pin", "add", "-r", cid, "-n", name])
         else:
