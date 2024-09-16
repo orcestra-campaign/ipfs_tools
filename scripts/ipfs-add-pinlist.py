@@ -19,7 +19,7 @@ def add_pins(pinlist):
         if (prev := pin.get("meta", {}).get("prev")) is not None:
             # If `prev` meta key is present, try to update this CID.
             ret = subprocess.run(
-                ["ipfs", "pin", "update", prev, cid],
+                ["ipfs", "pin", "update", "--unpin=false", prev, cid],
                 capture_output=True,
                 text=True,
             )
