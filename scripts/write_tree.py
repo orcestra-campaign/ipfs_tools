@@ -30,7 +30,7 @@ def write(node, path):
 
 
 def get_mfs_cid(path):
-    res = subprocess.run(["ipfs", "files", "stat", path, "--hash"], capture_output=True, text=True)
+    res = subprocess.run(["ipfs", "files", "stat", path, "--format=<hash>"], capture_output=True, text=True)
     return res.stdout.strip()
 
 
