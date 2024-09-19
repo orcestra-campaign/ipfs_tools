@@ -22,43 +22,55 @@ products:
       HALO-20240914a.zarr: QmT1KRAnXGABzGHNWqbdAD3X9LzrEUkQ9JAKChUFcDWarD
     radar:
       moments:
-        HALO-20240811a.zarr: Qmdo96aGPXykUQ7zT31pZxY5ozy92wAS8H84hrmikzbUNZ
-        HALO-20240813a.zarr: QmR5wFLuKBXonNKF6SecswZiXi1AdoqtB4h2KYXB2KeQRs
-        HALO-20240816a.zarr: QmYTAQn2sPxMW7MLPqpER7UggT5KeWXYHCxY8sVXh4HuxV
-        HALO-20240818a.zarr: QmTURLmcnFnQjgAFFgZbk3C9xm96uZ72pZzs6L3TiqxMpN
-        HALO-20240821a.zarr: QmckAyVomvvHJHMpwz4qEDcBrGo1mghq9URojLx5MSxVpE
-        HALO-20240822a.zarr: Qme3dBU3dESaS7zpaSTcS7sZKjpWmRR19KuWTXGtKdMjfA
-        HALO-20240825a.zarr: QmSHTUr45Cm93JBbKMDpnTG78wuSbCgYauhYcdmGsTr4hP
-        HALO-20240827a.zarr: QmUKLJPq5JksRyRysNqziowL8uHTUicCDRHMCazbdyqcq3
-        HALO-20240906a.zarr: QmQzGwxNHdEdzQBTazp3qMqfjM2AKp25hh4sRuXac96T7D
-        HALO-20240907a.zarr: Qmc8jp21ZaX4DytnhbGUVK2GbToBY6P6vDAKAyw9Lmxidz
-        HALO-20240909a.zarr: QmXiDJobMdeukksWoq24NGCtarKGtnPB9SX2aNNrajpbon
+        HALO-20240811a.zarr: Qmb8EgQiBTaBgTRKXhbYLvwww2G8wykh4NwL1itbbYqxgp
+        HALO-20240813a.zarr: QmXP1tzmZHFQgFnZshwrzZF1YxTxhKKVawbf7GDADhwgCc
+        HALO-20240816a.zarr: QmdGFWXFdSwK856PgXRCfP9HvTXXDhriCm2UVMQcBSvCHa
+        HALO-20240818a.zarr: QmVmnSaKnfHeHS8Pt9t8mNJbXJryJBgvUYKzCvPzFTJk4z
+        HALO-20240821a.zarr: QmQmY35Awdy532GBYgfw7owT5iT247cHptk6xtA8jkBm5g
+        HALO-20240822a.zarr: QmSjTKNg9fH9ps5WNHAb5Mzrv62obCLyg9h5Lv4i6dC3Ps
+        HALO-20240825a.zarr: QmeujQZgZUU1doQDCGM8jKCrmjkgvfFiUkgVMDetEesaGE
+        HALO-20240827a.zarr: Qmc16KSTqo9HEEMBn8dhDjEvqoeuq3ciVeTPnSZzEsAMK3
+        HALO-20240906a.zarr: QmWVuQ6evXYGyiw8yQHDAkFCVqvbzPANPzzim1H8YWWbAH
+        HALO-20240907a.zarr: QmPS73VFqRBKPsPLwHXLoMm55jAZS2R97GEJt6HYLAu5XN
+        HALO-20240909a.zarr: QmX8QCffUyjaBjjG5wGnnJqe4rJSvxsw2YMKi56QWNWGeT
         # this is unclear: HALO-20240809b
     # dropsondes: Qm...
+        HALO-20240829a.zarr: QmXDfnpg7TeDqQTFyyFf1enTYTsgShgW1g5WEAvd4shY25
+        HALO-20240831a.zarr: QmUBZXVyKnNCXiCEjckBgtuUmZkUwX24o7GFjHDs2BMrEc
+        HALO-20240903a.zarr: QmSogc1z9jzXEEHeHm7Bg9M5znoSQTGpmsC2ejk2QJ9DFw
+        HALO-20240912a.zarr: QmaY6A7XBAfVQGFTcvSPLCoJ6MWRxX5C3BmBB23nNaetUo
     radiometer:
-      HALO-20240811a.zarr: QmYcasrQYZPfEjd2eHEqvoxLUJuayB6TkBwjwDkqMuBFLt
-      HALO-20240813a.zarr: QmYptE7QPNzejm3Pjce6V15uumYaE8PKa2ku6D984DJ5Vq
-      HALO-20240816a.zarr: QmbZoF26ffR67Za4suPYm5vYBhRUy86KEYypNL3NUFQNaV
-      HALO-20240818a.zarr: Qmf4eJDCb9FpnNCfyQTVxWFeSv8hfY6C7bVH5JfsqpLMEq
-      HALO-20240821a.zarr: QmW4dgsoR5mE3yQiwhWygEeSwBnrA1ikyDeLAuXvct9mhc
-      HALO-20240822a.zarr: QmeUMMAP9w2pb63Jg1cLi64XCByiLL9WT2mL8tfTxqRG5B
-      HALO-20240825a.zarr: QmbBkn8qrF5abD4s5FLzXhQDHKW9KLMP6it2HMoBHM35HP
-      HALO-20240827a.zarr: QmVYHGvjxKEduKYh6So7ePkiPoLYgf6rouRKpSLKgUxDNp
-      HALO-20240906a.zarr: QmQ4vbddCwEwFHAyv52nvFJjvoxpuGMnMydXWpxdR6Z4MH
-      HALO-20240907a.zarr: QmTbxb1KfiGUHFkZAvCv9YTWpZAKtRzCrpPHKR78zLegLk
-      HALO-20240909a.zarr: Qme3WAuD6wfrY1B7HJR5CSZXD4wkToofqWbh4RJrX18DSo
+      HALO-20240811a.zarr: QmZMk7hwYUo8jzQdCf9r56TsM6tfKcSKY1Z4jUqQC86zKt
+      HALO-20240813a.zarr: QmbYh7mujUriYpfRrPnawTxfqSFAKvsmYSHN2XPP7yhHY2
+      HALO-20240816a.zarr: QmPCoyiAu3Lyo4pAkDNeqSLg3dq2JnxgcRTthpeQyAGsU9
+      HALO-20240818a.zarr: QmYq9QT2F8ctW1Y9WztDAcNniyvjNpM6Zr6YDNXeJtHbbc
+      HALO-20240821a.zarr: QmdDirs7E62KXefeVypLJMrHsJdRMtV16gwSRx4ZXy8kg5
+      HALO-20240822a.zarr: QmUHcwQMjVZwmPy4GEhycuQKTkfQsAvSFKF75sCkhfsxkm
+      HALO-20240825a.zarr: QmQ72jv2Z3uEjyymWHcwyzHMT7vLhHom7iwVe9BPpTogDT
+      HALO-20240827a.zarr: QmdA3kboXd4ZYGit9MFW1p2fss6W69MPHdUTMLbnPbHoc2
+      HALO-20240906a.zarr: QmSz7BY4jWwMpWY3gEZq28fZsxbTUaZs9M8p6cPE78kuEx
+      HALO-20240907a.zarr: QmSc6dhK8ZEobQocN8TqYzJimrBwRT2ybQqxLaMGWtfPUU
+      HALO-20240909a.zarr: QmYFz5B3YhFeUGPCHSETYLFMofoxeiUCHMAahX9ntcReR9
+      HALO-20240829a.zarr: QmWQgf3A49ri6DqZ3KjAJpyxWBeUaE5v2NvmAr7JV2totV
+      HALO-20240831a.zarr: QmWyFCN9CZ6bSn2zSiSih9qTffrUc2DcN1ozptyBQW8rvX
+      HALO-20240903a.zarr: QmZYbJLUihjKe7s61XKLFVzTgvyPnaBrpg8MX6fAGtAg3J
+      HALO-20240912a.zarr: QmfCYHBMD9ASRuhWRL8cRAGs1fw5qwG1RHDncCVyZadxPc
     iwv:
-      HALO-20240811a.zarr: Qmf7temtPH4rVNkLUiC3i9GVSrsEZWdLssN36kMGdQWHoE
-      HALO-20240813a.zarr: QmSMUMUCMs79kMNfZy9CCDdQeAvwXBqx5S31t8CARWquQk
-      HALO-20240816a.zarr: QmbJYyzVZf5cyHPSGgioecvQ17xDzdvhdBvjDG5DWycmoJ
-      HALO-20240818a.zarr: QmcG9YLhaZ1AnpmJrnkzcufUJtWc3BccnGrxVCypDQRXwS
-      HALO-20240821a.zarr: QmWUy5mCv9wnJv9HPCiqd6P5Md65j16uXYn9BYnFutpUPy
-      HALO-20240822a.zarr: Qmc38E66L4fUhvykCiyRxwuYBVDB2EcYF9Fmip3qLknh1b
-      HALO-20240825a.zarr: QmfDXnLa1i54UP51WqaFSxJCQJu4weiCWZEWdUGNX71FCt
-      HALO-20240827a.zarr: QmQZsJFcr892BmjtJDpcUeYcZXCpxY2Hxz3F6NVtdd5Y4c
-      HALO-20240906a.zarr: Qmcq9gYktm8JTg8CbC3Nn9NgT8QHdPMdkZGoUZSHcWrr33
-      HALO-20240907a.zarr: QmbbJzYxtXZa4BXoojKN9dYmR7sszypqJutYTTVdNQazy6
-      HALO-20240909a.zarr: QmcQeqGbHfsUWsnZVBV1fbe9HKsd72kTgYoXzShE5SqNwb
+      HALO-20240811a.zarr: QmXMzXYQb4AC7zLg1iQJqF5f4Cdi2TMUGWsvoBr1JYxtRD
+      HALO-20240813a.zarr: QmNnhkjjm2PPoWuj783yKepfesidqAQpjGMQmgx1VV7o5c
+      HALO-20240816a.zarr: Qma8bKf4rG8xxgiALLGeENoMCGQxEtwwixbRpbtLUArzx6
+      HALO-20240818a.zarr: QmcRQ21qwKghN5cP1ck96BzTeSMGdhATjBKyCfjhRe1KSe
+      HALO-20240821a.zarr: QmVpDVCjLhVMs2TjmPkq6UBsA4jRney1K4M76GunNKt9qP
+      HALO-20240822a.zarr: Qma4mqwemgyE92tHN7u7TzmA4cxYzkvtSDV2FZRfp7fLua
+      HALO-20240825a.zarr: QmPN7emxTJHHPtBDkvsf47oaMqNr9nWVA7SG95vTXQDCYG
+      HALO-20240827a.zarr: QmYfnMrusgij6hrW79BxuRieWEXFmtRerF5VUXGp2DaZVk
+      HALO-20240906a.zarr: QmbfEyARxzEbg6pA7weQtNNWnstJCgX6az4i5cg92hUaw6
+      HALO-20240907a.zarr: QmYShbV8EUTdiNKMiG831SuYrZoNcbZcENnjWMgft7UBwp
+      HALO-20240909a.zarr: QmYHcMk2C9ziJhdwGbhDBt69eTcCGDSyVmHiRgeVSqf8JA
+      HALO-20240829a.zarr: QmTR7WkJ947mk8YvKumnZyjphUbGnDEQt7ZWiKbnhH7NGU
+      HALO-20240831a.zarr: QmdUwqPJRHPCWFhsaAAHhSdkk76DReMXFZjoc8ZBtQsqoV
+      HALO-20240903a.zarr: Qmd3H71Ly5oAZoQq7csupVCkjbfpTiXsuTvVqJbQrs8VrN
+      HALO-20240912a.zarr: QmX6zkiegM9WSdm3rnNHfYo6HyTTBewxuskcdByZrw16Fz
 raw:
   HALO:
     radar:
