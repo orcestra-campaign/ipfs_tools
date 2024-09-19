@@ -34,12 +34,20 @@ def get_mfs_cid(path):
     return res.stdout.strip()
 
 
+def remove_mfs(path):
+    subprocess.run(["ipfs", "files", "rm", "--recursive", path])
+
+
 def main():
     parser = argparse.ArgumentParser(prog="write tree to IPFS")
     parser.add_argument("--tree", "-t", type=str, default="tree.yaml")
     parser.add_argument("--prefix", "-p", type=str, default="/ORCESTRA", help="IPFS MFS prefix")
+    parser.add_argument("--prune", action="store_true", help="Remove IPFS MFS")
 
     args = parser.parse_args()
+
+    if args.prune:
+        remove_mfs(args.prefix)
 
     tree = get_tree(args.tree)
 
