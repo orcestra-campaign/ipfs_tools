@@ -1,5 +1,5 @@
 meta:
-  flight-ids: bafkreif2fu6ysq6nxmu4iqnuulyqyognp5niccbtq2m3pqqmsrxvze7lxq
+  flight-ids: bafkreihbf7r4xabfc6vnzkldqxndnn7elaj2675l3ttpy62tkrbdyum53u
 products:
   HALO:
     position_attitude:
@@ -20,6 +20,7 @@ products:
       HALO-20240909a.zarr: Qmd2TQAGVCoPKsMg1bRW1WKzKhwd6sYxtWaXRDTft7KBC9
       HALO-20240912a.zarr: QmQazKy44EkjpAhb3NaRrNKR6UhS5BZ9XXPwrvq3CC2mjh
       HALO-20240914a.zarr: QmT1KRAnXGABzGHNWqbdAD3X9LzrEUkQ9JAKChUFcDWarD
+      HALO-20240916a.zarr: Qmeyrx3t1a3pcGdPcazB6iP6pKcXjHdFo5ZXpjwEKPtPGU
     radar:
       moments:
         HALO-20240811a.zarr: Qmb8EgQiBTaBgTRKXhbYLvwww2G8wykh4NwL1itbbYqxgp
@@ -129,6 +130,7 @@ raw:
       HALO-20240909a: QmWsHiSEL6xhXCFaotUqM5uWDmjoxxgDR28j3AFvkdJ4M8
       HALO-20240912a: QmR4m6rteHbVpQoJvHZWZjo1BEvyMLZJBhoBiVzwpkgxrN
       HALO-20240914a: QmXaBXVFVWA5WokGaYck866xtuFDowUdwzJ7SjJpCeT1CB
+      HALO-20240916a: QmPgKntkBMLokHbbUKKMrywhTJFrgMAVvciqkGf1ArXbdJ
     dropsondes:
       HALO-20240906a: QmWsTDwUWo2Lq87rfnAyNS2QAhS7FRcuDMD61TfWj4AVQY
       HALO-20240831a: QmckN5FUk1r4tJyKpvVts1jSS4ptvcihYQFkUFEsqvdKVM
