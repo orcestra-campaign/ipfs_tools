@@ -34,9 +34,11 @@ def add_pins(pinlist):
 
                 already_there = "Error: 'to' cid was already recursively pinned"
                 if ret.stderr.strip() == already_there:
+                    print(f"pinned {cid} recursively")
                     continue
             else:
-                # If the update returns wihtout error we can continue
+                # If the update returns without error we can continue
+                print(f"update {prev} -> {cid}")
                 continue
 
         if (name := pin.get("name")) is not None:
