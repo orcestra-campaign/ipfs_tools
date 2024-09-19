@@ -73,6 +73,8 @@ products:
       HALO-20240907a.zarr: QmYShbV8EUTdiNKMiG831SuYrZoNcbZcENnjWMgft7UBwp
       HALO-20240909a.zarr: QmYHcMk2C9ziJhdwGbhDBt69eTcCGDSyVmHiRgeVSqf8JA
       HALO-20240912a.zarr: QmX6zkiegM9WSdm3rnNHfYo6HyTTBewxuskcdByZrw16Fz
+  Radiosondes:
+    RS_ORCESTRA.zarr: QmQCGeZH1bi8o4AddemiyXKdZiLizEkPyjW9RoqoXqDDcr
 raw:
   HALO:
     radar:
