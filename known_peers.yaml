@@ -1,0 +1,5 @@
+- name: rpidata
+  ID: 12D3KooWL3E6UMhVPHq8tyCKoAybRxQQgE2uGVLVphtmqNhaegE2
+- name: DKRZ
+  ID: 12D3KooWN1cJjVBqXmCmaNF6yihB9vTuSSeSHJ2kw6waaQ5Mvmsm
+  Addrs: ["/ip4/136.172.60.151/tcp/4001/", "/ip4/136.172.60.151/udp/4001/quic-v1"]
