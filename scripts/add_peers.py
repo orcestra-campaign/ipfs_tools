@@ -3,6 +3,7 @@ import argparse
 import json
 import subprocess
 
+import fsspec
 import yaml
 
 
@@ -12,7 +13,7 @@ def main():
 
     args = parser.parse_args()
 
-    with open(args.file, "r") as fp:
+    with fsspec.open(args.file, "r") as fp:
         peers = yaml.safe_load(fp)
 
     peer_config = json.dumps(
