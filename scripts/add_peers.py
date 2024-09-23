@@ -2,9 +2,17 @@
 import argparse
 import json
 import subprocess
+from collections import defaultdict
+from itertools import chain
 
 import fsspec
 import yaml
+
+
+def get_ipfs_config():
+    return json.loads(
+        subprocess.run(["ipfs", "config", "show"], capture_output=True).stdout
+    )
 
 
 def main():
@@ -13,12 +21,16 @@ def main():
 
     args = parser.parse_args()
 
-    with fsspec.open(args.file, "r") as fp:
-        peers = yaml.safe_load(fp)
+    ipfs_config = get_ipfs_config()
 
-    peer_config = json.dumps(
-        [{"ID": p["ID"], "Addrs": p.get("Addrs", [])} for p in peers]
-    )
+    with fsspec.open(args.file, "r") as fp:
+        known_peers = yaml.safe_load(fp)
+
+    peers = defaultdict(set)
+    for peer in chain(ipfs_config["Peering"]["Peers"], known_peers):
+        peers[peer["ID"]].update(peer.get("Addrs", []))
+
+    peer_config = json.dumps([{"ID": i, "Addrs": list(a)} for i, a in peers.items()])
     subprocess.run(["ipfs", "config", "--json", "Peering.Peers", peer_config])
 
 
