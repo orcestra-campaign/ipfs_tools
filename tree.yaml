@@ -116,6 +116,26 @@ products:
         HALO-20240907a: QmPYrih8SbXkUYFDmqWjEHY8sEthbFRMqrdNGhNAcibeff
       Level_3: QmQeoshFxaxZochuvSRo2Mf98LgcmoVjx26ANEToi814Rn
       Level_4: Qmb4PSSHjCj4AJgrrfz8r8cHqNMZaKYb2S4MAqaCguPLZK
+    flight_animations:
+      HALO-20240811a.mp4: QmZq3bWjAAMnU96WzwG79aNdVDRJsiJYohaTX3ELGDUhfF
+      HALO-20240813a.mp4: QmZvPRwxJS78imNvBxYaXZUGzggcywpN4TaXRQy3tJJruH
+      HALO-20240816a.mp4: Qmb3QRCAyxvu3b1udyvjGe1PuZLpG9hWeT6qhmfLLi5erc
+      HALO-20240818a.mp4: QmRUjTABwbBBCi9qWQKXmAbEeeecXSYZBkyVicf9NzgGoY
+      HALO-20240821a.mp4: QmYPnmt8fsrYgyRXFLvF1wrsDZkdaq6cHR2iAneecH9Z7t
+      HALO-20240822a.mp4: QmZQBYVY7wQRq319sy1oAjyapg83MStmqxKSmsbDwW25hm
+      HALO-20240825a.mp4: QmWqwJ64JdZgEREZKTkUeMZ1FFxeh4xeNgY9NV9cQWr46g
+      HALO-20240827a.mp4: QmedMX6QpaqH6YpUTVkMs1mFtEuYKNjQjm6ecAHFtFvqZ2
+      HALO-20240829a.mp4: QmazHrZFxRhpArkBnvoByegX9WDgJvc1rEw91poYudPPp4
+      HALO-20240831a.mp4: Qmduhh6t9EQvbKf2tQ6iHAHbL11ZirUqLqfFnfcyC341X1
+      HALO-20240903a.mp4: QmRTNcDWNgKKeqLgXaEbdJLUP2ZWfCnVirQQAjePVg5DFP
+      HALO-20240906a.mp4: QmcR5i2tf1M8v4RZcxSu3EXUPwafGwM9VFqaUYtiBAcjRv
+      HALO-20240907a.mp4: QmYdsBmdsNvMye7PNdvpsCXSNpVBDEu3k8kGBuLAc6w64q
+      HALO-20240909a.mp4: QmUyp7AmoTZexUH8UsjRg5bUHbKgDJUfTBipQPkYB7tnKC
+      HALO-20240912a.mp4: QmcbdCFv9EjL3eHNKCDZ6RjsawLwdeQK7ffMdrnqY92ydv
+      HALO-20240914a.mp4: QmUCvAX4AkycFEuwMEa8RQtUkL5AJW8NVymW3ajsXBGp6K
+      HALO-20240916a.mp4: QmP2qCo8HAot8CTADNJDCiA9aJpj5DEJ6XmomttseMKUX6
+      HALO-20240919a.mp4: QmeJ3XF9yCkicMbuKeMdsPEccrWVpmeD5pxsSjDMoHYhDp
+      HALO-20240921a.mp4: QmZnJdJc8fQtScZ2ByX4dzXNKmid45HNhMLRd5RqZM4kT1
   Radiosondes:
     RS_ORCESTRA.zarr: QmQCGeZH1bi8o4AddemiyXKdZiLizEkPyjW9RoqoXqDDcr
 raw:
