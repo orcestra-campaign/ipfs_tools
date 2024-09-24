@@ -95,6 +95,8 @@ products:
         HALO-20240821a: QmPUdszHiTqnw39f2R6KBj76mQiSdwqRZPWcsYFD4JHT1U
         HALO-20240816a: QmQannjwHtxEa5u9Rq2ruR3yF3vadP9w7vfKtyGY1rDQek
         HALO-20240907a: QmVfZYyMJg4okN9SXbZ8aD1SGvtXmuJMSzq7r46PCzZLcQ
+        HALO-20240921a: QmNVe1AtDEVpxkNUh6f5R6ZvbMGwWNrgPZ11c46ARLYHko
+        HALO-20240923a: QmZDtQqxHVd472yb6nNijKrJrxUZiHeUcfpeYngVws5rBt
       Level_2:
         HALO-20240906a: Qmdy46CiStqHzkWY88hnxVg3frtv87MbVUd4T2A2ZQF9VE
         HALO-20240831a: QmWkHWEw2BeYgf4F1WyBS1NEBEUcz4QopYDmXQ3vFnBo4R
@@ -111,11 +113,13 @@ products:
         HALO-20240912a: QmaUekEcGnNCg18G9QRNamEpo9mQ48FfEyxooZmL6Pi1X2
         HALO-20240916a: QmSCri6XUyLfTBjcbBsbA9eSzkXtQRCSubPu16jSfVdt2d
         HALO-20240822a: Qmf3PwBVeDZuQtbvbWqpFhqDG4yDa7RqohYrAPkZXM1nup
-        HALO-20240821a: QmPQhGQxFfssssmHgjSWZmyFDZBZydCdfVd2SUbFpgLCMz
+        HALO-20240821a: QmNVGxsVJRWxCtQypHVmpkWefsFYHnm9DgDDpkkvUfNmaG
         HALO-20240816a: QmdDi9ifvo216kxoTpD7BGWAZoCLEpkZed3ZreubRotrt1
         HALO-20240907a: QmPYrih8SbXkUYFDmqWjEHY8sEthbFRMqrdNGhNAcibeff
-      Level_3: QmQeoshFxaxZochuvSRo2Mf98LgcmoVjx26ANEToi814Rn
-      Level_4: Qmb4PSSHjCj4AJgrrfz8r8cHqNMZaKYb2S4MAqaCguPLZK
+        HALO-20240921a: Qme5Aze5qXT6aA6FEANScgSpRZAZAWtD4FSbjyFi5NQYhd
+        HALO-20240923a: QmTP2BwgGFZhLXUt35Cc7RGJqjCfgeGMbH6JVYjzRTRwb9
+      Level_3: QmTbBYgxcJrEQKcAmMkgLSDUftg2y2NEELbK2kYZL4j85K
+      Level_4: QmNyH2CouKqsT3ifQEFt4EZesypaBP7kv1X6bunydQttdT
     flight_animations:
       HALO-20240811a.mp4: QmZq3bWjAAMnU96WzwG79aNdVDRJsiJYohaTX3ELGDUhfF
       HALO-20240813a.mp4: QmZvPRwxJS78imNvBxYaXZUGzggcywpN4TaXRQy3tJJruH
