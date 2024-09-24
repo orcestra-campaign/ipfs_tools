@@ -1,5 +1,5 @@
 meta:
-  flight-ids: bafkreiftyao2hwdwou3hkgsengqphr5rq2hln3pnp5e4bebejzytby3eyu
+  flight-ids: bafkreieae2goke3vfryyk6yisagsprbxggh7th7begq44k657z6ld524ny
 products:
   HALO:
     position_attitude:
@@ -22,6 +22,7 @@ products:
       HALO-20240914a.zarr: QmT1KRAnXGABzGHNWqbdAD3X9LzrEUkQ9JAKChUFcDWarD
       HALO-20240916a.zarr: Qmeyrx3t1a3pcGdPcazB6iP6pKcXjHdFo5ZXpjwEKPtPGU
       HALO-20240919a.zarr: QmRJaLPaJwtzzbSLGexsqMWdMMZG12wdTMmsDRRDRSntPi
+      HALO-20240921a.zarr: QmZQuR4xYhQP9rYpRLFxfErNHP3FgBQTT7QiZL4FQaPaWa
     radar:
       moments:
         HALO-20240811a.zarr: Qmb8EgQiBTaBgTRKXhbYLvwww2G8wykh4NwL1itbbYqxgp
@@ -115,6 +116,26 @@ products:
         HALO-20240907a: QmPYrih8SbXkUYFDmqWjEHY8sEthbFRMqrdNGhNAcibeff
       Level_3: QmQeoshFxaxZochuvSRo2Mf98LgcmoVjx26ANEToi814Rn
       Level_4: Qmb4PSSHjCj4AJgrrfz8r8cHqNMZaKYb2S4MAqaCguPLZK
+    flight_animations:
+      HALO-20240811a.mp4: QmZq3bWjAAMnU96WzwG79aNdVDRJsiJYohaTX3ELGDUhfF
+      HALO-20240813a.mp4: QmZvPRwxJS78imNvBxYaXZUGzggcywpN4TaXRQy3tJJruH
+      HALO-20240816a.mp4: Qmb3QRCAyxvu3b1udyvjGe1PuZLpG9hWeT6qhmfLLi5erc
+      HALO-20240818a.mp4: QmRUjTABwbBBCi9qWQKXmAbEeeecXSYZBkyVicf9NzgGoY
+      HALO-20240821a.mp4: QmYPnmt8fsrYgyRXFLvF1wrsDZkdaq6cHR2iAneecH9Z7t
+      HALO-20240822a.mp4: QmZQBYVY7wQRq319sy1oAjyapg83MStmqxKSmsbDwW25hm
+      HALO-20240825a.mp4: QmWqwJ64JdZgEREZKTkUeMZ1FFxeh4xeNgY9NV9cQWr46g
+      HALO-20240827a.mp4: QmedMX6QpaqH6YpUTVkMs1mFtEuYKNjQjm6ecAHFtFvqZ2
+      HALO-20240829a.mp4: QmazHrZFxRhpArkBnvoByegX9WDgJvc1rEw91poYudPPp4
+      HALO-20240831a.mp4: Qmduhh6t9EQvbKf2tQ6iHAHbL11ZirUqLqfFnfcyC341X1
+      HALO-20240903a.mp4: QmRTNcDWNgKKeqLgXaEbdJLUP2ZWfCnVirQQAjePVg5DFP
+      HALO-20240906a.mp4: QmcR5i2tf1M8v4RZcxSu3EXUPwafGwM9VFqaUYtiBAcjRv
+      HALO-20240907a.mp4: QmYdsBmdsNvMye7PNdvpsCXSNpVBDEu3k8kGBuLAc6w64q
+      HALO-20240909a.mp4: QmUyp7AmoTZexUH8UsjRg5bUHbKgDJUfTBipQPkYB7tnKC
+      HALO-20240912a.mp4: QmcbdCFv9EjL3eHNKCDZ6RjsawLwdeQK7ffMdrnqY92ydv
+      HALO-20240914a.mp4: QmUCvAX4AkycFEuwMEa8RQtUkL5AJW8NVymW3ajsXBGp6K
+      HALO-20240916a.mp4: QmP2qCo8HAot8CTADNJDCiA9aJpj5DEJ6XmomttseMKUX6
+      HALO-20240919a.mp4: QmeJ3XF9yCkicMbuKeMdsPEccrWVpmeD5pxsSjDMoHYhDp
+      HALO-20240921a.mp4: QmZnJdJc8fQtScZ2ByX4dzXNKmid45HNhMLRd5RqZM4kT1
   Radiosondes:
     RS_ORCESTRA.zarr: QmQCGeZH1bi8o4AddemiyXKdZiLizEkPyjW9RoqoXqDDcr
 raw:
@@ -160,6 +181,8 @@ raw:
           20240919_1109.nc: QmdPETyav9nBjjjnEsYX1HTnoFYNtsXDgafqedzVrX8qCi
         HALO-20240921a:
           20240921_1138.nc: QmbciSPAWBGEkrKW3ZXgaKyFMZXqNAGaFm43byLEHqeQNs
+        HALO-20240923a:
+          20240923_1127.nc: QmdBWBj6FJyB5cofXgYkSmxxrUhxdojMFzsMJHoMYqLPkW
     radiometer:
       HALO-20240809a: QmbgSZFSau4qXSqM7HeaSYuFcG2AcbakivmZKcfyrrHVvc
       HALO-20240811a: QmPYe7dGT1Ct4rfkfv45Sv1Ht5DAiQptga59yGubxE9PnP
@@ -183,7 +206,7 @@ raw:
       HALO-20240921a: QmYJk1wb7V5MQkoFoHBwtEsVqEKPasaqtJyKU3Bbv34CAN
     bahamas:
       HALO-20240809b: QmNMoegxVJ1a1uTBvQHFfdyBa2pZiHsKZgodLBvFpY7XWj
-      HALO-20240811a: QmfCYn2aduAii3U7ykLWWC4T2Ume7vcDfwrkvDHUyC6CKp
+      HALO-20240811a: QmcqGGqYLayC2zARDFjUDETGRCBSNCLEEEVcVpzqvWXJQy
       HALO-20240813a: QmRFJ3Hbh75fMoEVW6W6zbyibE9xCMKeznmFs17pSoHGbn
       HALO-20240816a: QmRjYy9HjiJ9iZksZV3GE99dDvW3672aMHBfduP4sshGHV
       HALO-20240818a: QmdP9iihF3BALyziDEBdo3VZwLu62WAz5a6tG9S5MD2A8J
@@ -201,6 +224,7 @@ raw:
       HALO-20240914a: QmXaBXVFVWA5WokGaYck866xtuFDowUdwzJ7SjJpCeT1CB
       HALO-20240916a: QmPgKntkBMLokHbbUKKMrywhTJFrgMAVvciqkGf1ArXbdJ
       HALO-20240919a: QmbMDZrPv6VHUv1XuKiNXj1cPgn72FC2EAbL6QmboBPv3J
+      HALO-20240921a: QmSRy8ExsG7AaGkNKkZm4QqmXaqcvskEiCNVBaprmrf4fn
     dropsondes:
       HALO-20240906a: QmWsTDwUWo2Lq87rfnAyNS2QAhS7FRcuDMD61TfWj4AVQY
       HALO-20240831a: QmckN5FUk1r4tJyKpvVts1jSS4ptvcihYQFkUFEsqvdKVM
