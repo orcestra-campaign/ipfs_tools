@@ -27,7 +27,7 @@ def main():
         known_peers = yaml.safe_load(fp)
 
     peers = defaultdict(set)
-    for peer in chain(ipfs_config["Peering"]["Peers"], known_peers):
+    for peer in chain(ipfs_config["Peering"]["Peers"] or [], known_peers):
         peers[peer["ID"]].update(peer.get("Addrs", []))
 
     peer_config = json.dumps([{"ID": i, "Addrs": list(a)} for i, a in peers.items()])
