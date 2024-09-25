@@ -40,6 +40,10 @@ products:
         HALO-20240907a.zarr: QmPS73VFqRBKPsPLwHXLoMm55jAZS2R97GEJt6HYLAu5XN
         HALO-20240909a.zarr: QmX8QCffUyjaBjjG5wGnnJqe4rJSvxsw2YMKi56QWNWGeT
         HALO-20240912a.zarr: QmaY6A7XBAfVQGFTcvSPLCoJ6MWRxX5C3BmBB23nNaetUo
+        HALO-20240914a.zarr: QmR8Pp7LXP29Pa3WmL4uc1tKEngdLNtMesT7NMVKmfsipu
+        HALO-20240916a.zarr: QmbSDSKXuab2t3HMfyZxtTPhXPzJRVAQgevSgEBrdiWnEt
+        HALO-20240919a.zarr: QmQDApYPHTyD39aAFRHSajzNGHC1zBbo1RTi67kamjW4Gn
+        HALO-20240921a.zarr: QmQJbdsw7BiZxEtxT6mNyCjxQbtvC5BckbdcPZsfXdXo6G
         # this is unclear: HALO-20240809b
     # dropsondes: Qm...
 
@@ -59,6 +63,10 @@ products:
       HALO-20240907a.zarr: QmSc6dhK8ZEobQocN8TqYzJimrBwRT2ybQqxLaMGWtfPUU
       HALO-20240909a.zarr: QmYFz5B3YhFeUGPCHSETYLFMofoxeiUCHMAahX9ntcReR9
       HALO-20240912a.zarr: QmfCYHBMD9ASRuhWRL8cRAGs1fw5qwG1RHDncCVyZadxPc
+      HALO-20240914a.zarr: Qmdhbzxc3SqGo8AmoFKHELDKXin9ksrGGe8QMyvnrt1BDC
+      HALO-20240916a.zarr: QmTzMc5UqfZk5qbgpUFbgHzpde3Ft2eS7uRmLvcAWYwkia
+      HALO-20240919a.zarr: QmWgexCAMibEm3kUVPx2hnbGEGSH4dRSeiQYAEYFoKZPK7
+      HALO-20240921a.zarr: QmfZDeG2MbpcTdAZ2qyyms9Quh7eDctavv64XUQkM97Hs5
     iwv:
       HALO-20240811a.zarr: QmXMzXYQb4AC7zLg1iQJqF5f4Cdi2TMUGWsvoBr1JYxtRD
       HALO-20240813a.zarr: QmNnhkjjm2PPoWuj783yKepfesidqAQpjGMQmgx1VV7o5c
@@ -75,6 +83,10 @@ products:
       HALO-20240907a.zarr: QmYShbV8EUTdiNKMiG831SuYrZoNcbZcENnjWMgft7UBwp
       HALO-20240909a.zarr: QmYHcMk2C9ziJhdwGbhDBt69eTcCGDSyVmHiRgeVSqf8JA
       HALO-20240912a.zarr: QmX6zkiegM9WSdm3rnNHfYo6HyTTBewxuskcdByZrw16Fz
+      HALO-20240914a.zarr: QmVG78K8gaXzHRT51aXC6u3pvUuWhnaaric65N8gMWixN2
+      HALO-20240916a.zarr: QmX5z546xi6YCWHFkFCvZSjAePeLAcdkTUq5oivL5gstCB
+      HALO-20240919a.zarr: QmQ7R5MN7GUEsRfds2afGPsVWNM4fC9AeCB8Db9aVqVeYs
+      HALO-20240921a.zarr: QmaycnybmHrzDs8PvnV3hrWnCyApf8ZVrrQ7H9V4st6PWC
     dropsondes:
       Level_1:
         HALO-20240906a: QmYv6VM2kwEvwf9L5oqhZ3NFQH9b5rgVVGugqZ5hVCr11n
