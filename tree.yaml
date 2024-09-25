@@ -141,7 +141,7 @@ products:
       HALO-20240919a.mp4: QmeJ3XF9yCkicMbuKeMdsPEccrWVpmeD5pxsSjDMoHYhDp
       HALO-20240921a.mp4: QmZnJdJc8fQtScZ2ByX4dzXNKmid45HNhMLRd5RqZM4kT1
   Radiosondes:
-    RS_ORCESTRA.zarr: QmQCGeZH1bi8o4AddemiyXKdZiLizEkPyjW9RoqoXqDDcr
+    RS_ORCESTRA.zarr: QmYorC4cu2CBcHWST41a3ndEW4Ds9DZhEAriLHeh5q2AtZ
 raw:
   HALO:
     radar:
@@ -251,5 +251,5 @@ raw:
       HALO-20240921a: QmTta7ihuh5GzgdYAPqqrjPESfrQ9pyLnYHSMuhvuxTX3K
       HALO-20240923a: Qmck36AvTxo4pL5bns2HrVYf4tvhzAfHs5r79z9uqQKttn
   Radiosondes:
-    BCO: QmTbnTogx3YKizUh2e9BE2mmKi2xWoTGtAqF9jgMfZDWVd
+    BCO: Qma1ExcYoJrmaLQ354Udq5AV28DjrdT31ZApe6E5jdrPXe
     Sal: QmXi5VbJALJWgBkur2XWSTFR3bTp9HH2e6ZwrTJoTpfjqo
