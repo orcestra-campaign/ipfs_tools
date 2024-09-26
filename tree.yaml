@@ -202,6 +202,8 @@ raw:
           20240923_1127.nc: QmdBWBj6FJyB5cofXgYkSmxxrUhxdojMFzsMJHoMYqLPkW
         HALO-20240924a:
           20240924_1631.nc: QmZ84g3Kg6GGm6oaut9WQ5TcxZvMfSYtZXQyENB5i5nteF
+        HALO-20240926a:
+          20240926_1157.nc: QmaZ2k78cWqn4nYPenYboMChoiL1q1g8ajy7sPsk971dPy
     radiometer:
       HALO-20240809a: QmbgSZFSau4qXSqM7HeaSYuFcG2AcbakivmZKcfyrrHVvc
       HALO-20240811a: QmPYe7dGT1Ct4rfkfv45Sv1Ht5DAiQptga59yGubxE9PnP
@@ -225,6 +227,7 @@ raw:
       HALO-20240921a: QmYJk1wb7V5MQkoFoHBwtEsVqEKPasaqtJyKU3Bbv34CAN
       HALO-20240923a: QmcK9CGa3Q7xuPaLu82Er8C7AkjErzJejs2ZhG1SjLnScd
       HALO-20240924a: QmaQEU3LLXxEGU4DLh25boYXkZVx8eVqPcVYLigvgTPumY
+      HALO-20240926a: QmeQc54yC4rq4MHQwZnwaJu6WnS2etUy3nxTPd183cLvhL
     bahamas:
       HALO-20240809b: QmNMoegxVJ1a1uTBvQHFfdyBa2pZiHsKZgodLBvFpY7XWj
       HALO-20240811a: QmcqGGqYLayC2zARDFjUDETGRCBSNCLEEEVcVpzqvWXJQy
