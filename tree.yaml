@@ -24,6 +24,7 @@ products:
       HALO-20240919a.zarr: QmRJaLPaJwtzzbSLGexsqMWdMMZG12wdTMmsDRRDRSntPi
       HALO-20240921a.zarr: QmZQuR4xYhQP9rYpRLFxfErNHP3FgBQTT7QiZL4FQaPaWa
       HALO-20240923a.zarr: QmTjnzA3oeotASxySCNauQnnPpczJQLkjurEeR36qata5w
+      HALO-20240924a.zarr: QmcAxTZRoq3mCu3mZmBZZfpab6iByeq4t475j31LgyMauF
     radar:
       moments:
         HALO-20240811a.zarr: Qmb8EgQiBTaBgTRKXhbYLvwww2G8wykh4NwL1itbbYqxgp
@@ -250,6 +251,7 @@ raw:
       HALO-20240919a: QmbMDZrPv6VHUv1XuKiNXj1cPgn72FC2EAbL6QmboBPv3J
       HALO-20240921a: QmSRy8ExsG7AaGkNKkZm4QqmXaqcvskEiCNVBaprmrf4fn
       HALO-20240923a: QmeXUcowmafjepk3Am8LDvwjfhDxuj6jhRCRh1GRXPpTos
+      HALO-20240924a: QmaN7jRKC47BmXcfKW2WRwy97BSiz47gM8uYKoHniixcRk
     dropsondes:
       HALO-20240811a: Qmem6raYkVdE8SGNMZrCRdsbZcKhryGoAps2t83wPLXmEm
       HALO-20240813a: QmZtP8zKjdqoCAvveGKPSa58t3pRnbtJgcnVmxq8XbKxwL
