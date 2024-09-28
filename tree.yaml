@@ -25,6 +25,7 @@ products:
       HALO-20240921a.zarr: QmZQuR4xYhQP9rYpRLFxfErNHP3FgBQTT7QiZL4FQaPaWa
       HALO-20240923a.zarr: QmTjnzA3oeotASxySCNauQnnPpczJQLkjurEeR36qata5w
       HALO-20240924a.zarr: QmcAxTZRoq3mCu3mZmBZZfpab6iByeq4t475j31LgyMauF
+      HALO-20240926a.zarr: QmNgi37StiPDHBSb6YgKqEthGhBTBaUN2kz3NKjtoigR6z
     radar:
       moments:
         HALO-20240811a.zarr: Qmb8EgQiBTaBgTRKXhbYLvwww2G8wykh4NwL1itbbYqxgp
@@ -156,6 +157,7 @@ products:
       HALO-20240921a.mp4: QmZnJdJc8fQtScZ2ByX4dzXNKmid45HNhMLRd5RqZM4kT1
       HALO-20240923a.mp4: QmTdb7vwBs1E2eyNzKQSargxGut9nGa1SQSWz3dV5hQ6N2
       HALO-20240924a.mp4: QmSScNDjmxxfakVR1yypTBVaFcuMKYptjAwKhgNyB3vFbV
+      HALO_20240926a.mp4: QmXmPxY3hSmq4Bf12uY8PwA54ub6CLzk7nsqqGPbQ1dmBm
   Radiosondes:
     RS_ORCESTRA.zarr: Qmc21nDBA3XSkHxjRgEHD18eUEYhKgYpUAMDp7eGBrAv5f
 raw:
@@ -254,6 +256,7 @@ raw:
       HALO-20240921a: QmSRy8ExsG7AaGkNKkZm4QqmXaqcvskEiCNVBaprmrf4fn
       HALO-20240923a: QmeXUcowmafjepk3Am8LDvwjfhDxuj6jhRCRh1GRXPpTos
       HALO-20240924a: QmaN7jRKC47BmXcfKW2WRwy97BSiz47gM8uYKoHniixcRk
+      HALO-20240926a: QmQKjSMebLyTJdjyUdPHdCjKbPraLAEg7KB1rVrg95s7F6
     dropsondes:
       HALO-20240811a: Qmem6raYkVdE8SGNMZrCRdsbZcKhryGoAps2t83wPLXmEm
       HALO-20240813a: QmZtP8zKjdqoCAvveGKPSa58t3pRnbtJgcnVmxq8XbKxwL
