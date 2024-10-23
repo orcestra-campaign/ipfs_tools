@@ -330,6 +330,7 @@ raw:
       HALO-20240924a: QmXcdvtBfdipsDNsWb4qLM7nT7Dn15Xen4XqMN3fiPToia
       HALO-20240926a: QmQJdk9Y5L4x28cec8vq14EHu6tvwvJVZK7ZmdUqBMQYef
       HALO-20240928a: QmcLaASBJRkuSFZQbJrG8nmSZSS5tKkYvjZNHtinM2hqEa
-  Radiosondes:
-    BCO: Qmas4RGRpsq1tsyg8XRXccCuK76DbbGpuSmxVKHqCPWqfz
-    Sal: QmXi5VbJALJWgBkur2XWSTFR3bTp9HH2e6ZwrTJoTpfjqo
+  BCO:
+    radiosondes: Qmas4RGRpsq1tsyg8XRXccCuK76DbbGpuSmxVKHqCPWqfz
+  Sal:
+    radiosondes: QmXi5VbJALJWgBkur2XWSTFR3bTp9HH2e6ZwrTJoTpfjqo
