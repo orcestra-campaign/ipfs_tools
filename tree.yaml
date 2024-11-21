@@ -1,5 +1,5 @@
 meta:
-  flight-ids: bafkreid52kfwhsfvcxa56gfvtxirxyohft73yqndwqheh7ul4n7mtsuztm
+  flight-ids: bafkreib4eflxdm72w7rayrykxk4ksscaapwfqesm3gf3df3mrcpkyzd45y
 products:
   HALO:
     position_attitude:
@@ -275,11 +275,11 @@ raw:
       HALO-20241110a:
         mom:
           20241110_1010.nc: QmbYqvtQeC9S47PTimmBieUymjRkzAnSWBT6UFuC9xiq5Y
-      HALO-20241112a:
+      HALO-20241112b:
         mom:
           20241112_1032.nc: QmWKcB642Ez6kiRsZwTowUihzbLrLGgVeTzh9hQH4UMSP2
           20241112_1040.nc: QmUEWHwUQ2rxCwJJTrDnLAhGFngM6tfNAT2k6jK6TxGYQr
-      HALO-20241114a:
+      HALO-20241114b:
         mom:
           20241114_1010.nc: QmcX9tVTKsKez1u44SyGmaryTU3TtQdPs5ozsLRPpPQ9r8
       HALO-20241116a:
@@ -317,8 +317,8 @@ raw:
       HALO-20241105a: QmW2SfDezH9BzspPqsKih9pPuMJBsvzkmeUMSTNb9xCPhZ
       HALO-20241107a: Qmdrjn1xTiTsywHPN5emaDgXzFid3FsAEnqBfBtXZCZvof
       HALO-20241110a: QmecHHvbrU8wBQzcdNpyx2rtN9dxRPxdoK7KnqvqtRivPW
-      HALO-20241112a: Qmb26Fp1VFmV9dthET6ZtDVMLf4EQSPJ411LwnctQ7siqe
-      HALO-20241114a: QmZJXfEXRVi8fhv2fY1u2nUZ9iSTrHXZkcdQ4WVN2JXBTA
+      HALO-20241112b: Qmb26Fp1VFmV9dthET6ZtDVMLf4EQSPJ411LwnctQ7siqe
+      HALO-20241114b: QmZJXfEXRVi8fhv2fY1u2nUZ9iSTrHXZkcdQ4WVN2JXBTA
       HALO-20241116a: QmRSzpddR4WzAeCT5ZX4W4TYCygq3T3sSkQW4SmPqvN6Sa
       HALO-20241119a: QmRbwX42dhJeakzYDEbu44GDePdz5dTWa8WDaJoEmvcFTP
     bahamas:
