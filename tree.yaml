@@ -60,6 +60,13 @@ products:
         HALO-20240924a.zarr: QmRN1LafAyCej92ZpR8fjgx7k6NvWVTsGK12DWjp9a99aT
         HALO-20240926a.zarr: QmUccNJaW7LMrsXt8diEhf7y6Yk6UsbFCXmPQJdadvmtkA
         HALO-20240928a.zarr: QmQkmA8c9KL5SbrA1grpSrFDjB4XbqyeLZQk863bY3bTFd
+        HALO-20241105a.zarr: QmSKLpZVs5x7KL3VC6ebCThvZ6VepdMMqEo9sgJb3KEkYX
+        HALO-20241107a.zarr: QmXF3Y8Gs3xLJiXpuJLuX3CA6te1Hho3PbK2MT7jvVXiVR
+        HALO-20241110a.zarr: QmerTw9mNUsq6g559kqkXV5uH3hwxXj877kiipWsB5Cbxe
+        HALO-20241112b.zarr: QmYPjegCNfMa5VU2j1wpzGRwgWQWwspDBtackT4uAb9kDL
+        HALO-20241114b.zarr: QmZjcxRC899hCz6eKmwg7M8UjnM6Vjb4NsH1Ph4U8ZfiHE
+        HALO-20241116a.zarr: QmUgByZ357y9bqswLg4gix9iUQEhsFvDvFpp19vNMRtn9d
+        HALO-20241119a.zarr: QmbY8mcmguAQypMcyDJENizoSCnb46PVuqugwzdNnjzbv3
         # this is unclear: HALO-20240809b
     # dropsondes: Qm...
 
@@ -87,6 +94,13 @@ products:
       HALO-20240924a.zarr: QmaaGwk1CupbqgLvxQqiDMmYoszNzcTozY6L58FwJEoRwW
       HALO-20240926a.zarr: QmVQJ7Kbec1zfdicF6xV3fhKhqFGmZSsf8FTRqz6w66x88
       HALO-20240928a.zarr: QmZvkU9GF7bqzCmMSZwjDtVXP4W4mjsRW8K6y2GFMcwBRr
+      HALO-20241105a.zarr: QmcJtiaqsmCfWKF21g9yktHwrCFL7kM95BWmKJKJkKzYbN
+      HALO-20241107a.zarr: QmNe3pqQYN6Gw4z93feAVnaVHFtc1hgX99z11NWFnZaFe6
+      HALO-20241110a.zarr: QmWB2UQsgtFtv3jfZbV5AUBNom2spKrvJzQRy4Wkh43E6h
+      HALO-20241112b.zarr: QmNnGkTFPgy3d7kj8jeJBrDxoXE23xfghhBnkqFTeK7dcm
+      HALO-20241114b.zarr: QmQFHRnr3dXojXANieLNTeGJENkYAXXRhnEJw5Ukd2k8Np
+      HALO-20241116a.zarr: QmNxmkHpiTvkoa3K92deGh6ggYf1thG1DytjU8QXrhemzT
+      HALO-20241119a.zarr: QmNQPiFRuTncgu9AQYZz4spNKH7zM7HabPFwSPbSaHeJSb
     iwv:
       HALO-20240811a.zarr: QmXMzXYQb4AC7zLg1iQJqF5f4Cdi2TMUGWsvoBr1JYxtRD
       HALO-20240813a.zarr: QmNnhkjjm2PPoWuj783yKepfesidqAQpjGMQmgx1VV7o5c
@@ -111,6 +125,13 @@ products:
       HALO-20240924a.zarr: QmahrQQTTnTLrnsFJZSPHmCVYrJAJswfBqhwuSTBqvbMhi
       HALO-20240926a.zarr: QmYrnY1Z2agYtQY7bXCbEaUTNLzavqgEZcdhvMLshLb6fM
       HALO-20240928a.zarr: Qme5nhmc9FWhznpGaxrdLr3mvjsvTDUPMeNJ3Tebd8XE2r
+      HALO-20241105a.zarr: QmaHmFnqEsmJVCae2EP2Dq5wqHfPSpV19gr1PReDcXVvQo
+      HALO-20241107a.zarr: QmPao5FKC6d4QyorwFeUUhePCjZkzz35YkAjiyJrjR3bPo
+      HALO-20241110a.zarr: QmcwRmGp1aY9sjpmVu1uwjVM2JksnEXc2KZvb9vDi2jGWy
+      HALO-20241112b.zarr: QmfBcWSYyrswRLvWJyJrpGFJqxKhcBETCcy47SuwDjScYh
+      HALO-20241114b.zarr: QmNUf4uGwdZWn5uDTmqDLzbWNR8Cu3fbQSmQJFGa6ggz5j
+      HALO-20241116a.zarr: QmVwbYZmPHajdTbSByTXxfFJWzbkcLAcr2ADo4UiLp6JJT
+      HALO-20241119a.zarr: QmSJAi8pQFnhN39LoAq2dgtzCCJPPf8CqHL7CdrGSdaYdn
     dropsondes:
       Level_1:
         HALO-20240811a: QmR222sEH6yKsu1XuWh9XemSrfJ8p438yDB8BY5HJVNMGo
