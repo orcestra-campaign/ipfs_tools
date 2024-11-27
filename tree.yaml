@@ -209,8 +209,12 @@ products:
       HALO-20240926a.mp4: QmYaCACmcNZouayGMiF2g3KxsiWyvS885jaChwsjg3at2e
   METEOR:
     DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
-  Radiosondes:
-    RS_ORCESTRA.zarr: Qmc21nDBA3XSkHxjRgEHD18eUEYhKgYpUAMDp7eGBrAv5f
+    RS_METEOR_level2.zarr: QmbQe6ZfnyG6yf1A56XiqFLTd4M6ixKqEVP3q6krRV1oCt
+  BCO:
+    RS_BCO_level2.zarr: QmYjjbSAJyZm3J16pWVtduuAHuosF7RQWgnERGeZkWSUPY
+  SAL:
+    RS_SAL_level2.zarr: QmP968RrntvFvQVUVHTDBJk2SsQNHtj7DiGnUSriZj6WLn
+
 raw:
   HALO:
     radar:
