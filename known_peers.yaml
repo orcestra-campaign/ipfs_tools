@@ -3,3 +3,5 @@
 - name: DKRZ
   ID: 12D3KooWN1cJjVBqXmCmaNF6yihB9vTuSSeSHJ2kw6waaQ5Mvmsm
   Addrs: ["/ip4/136.172.60.151/tcp/4001/", "/ip4/136.172.60.151/udp/4001/quic-v1"]
+- name: raspberrypint
+  ID: 12D3KooWDxsa98TAgDRVRby6bPxvnHfqBdL1hHBqMqP2PWoSHmcJ
