@@ -134,7 +134,6 @@ products:
       HALO-20241119a.zarr: QmSJAi8pQFnhN39LoAq2dgtzCCJPPf8CqHL7CdrGSdaYdn
     dropsondes:
       Level_1:
-        HALO-20240809a: QmXt2HYQea7Js1y7EXfLNt7ak4C8X8gpeeUu1D84spRFCe
         HALO-20240811a: QmZkKfAUWy8tZPJi56jcaYxCmtC9eeWAYExRBVYtyBQA9e
         HALO-20240813a: QmU9232RRCn8h2B1nUU1wQhkpqQ6eEeQwx5qYHGwFoi3e8
         HALO-20240816a: QmSe8vPveVsiA1ws1DvzZGuzNosWuJtv7TzhcaKwdCeYJB
@@ -381,7 +380,7 @@ raw:
       HALO-20241116a: QmSmfuDA1h67Q6cumizvjbsn2ex4gpsyUbFSWmTfbhRT53
       HALO-20241119a: QmYU8PF5AGHqzuPs8Wki8C8npFCyh5fNfRGx9ThVQ5qWYm
     dropsondes:
-      HALO-20240809a: Qmbyg4KzddvFesPpEe2xtJA25QzknXZHdjvzdsWqwWafVg
+      HALO-20240809b: Qmbyg4KzddvFesPpEe2xtJA25QzknXZHdjvzdsWqwWafVg
       HALO-20240811a: QmXpDQQ2LZp6CaCFBo9aeSgeXWZxbQ1Hy1XotZXjeY1XeS
       HALO-20240813a: QmZtP8zKjdqoCAvveGKPSa58t3pRnbtJgcnVmxq8XbKxwL
       HALO-20240816a: QmWzFro2zVw7hi9oVy1bGZagzkdQx5vFcq1Ap3dtPhk4Vf
@@ -410,6 +409,7 @@ raw:
       HALO-20240915a: QmcUfYwXJbmw7qK4DQYgQFcm4pQDsYaY1PKiH45Kx7e6mU
       HALO-20240920a: QmV4vL6zH2y6NYTG9vmnocZoeq8mrPBZRKkqGBm7sFVb5f
       HALO-20240925a: QmTGSYdsEmCysYYqp2sv4N3jNKR92q87MdVN1zgTWWdAPQ
+      HALO-20240809b: Qmbyg4KzddvFesPpEe2xtJA25QzknXZHdjvzdsWqwWafVg
   BCO:
     radiosondes: Qmas4RGRpsq1tsyg8XRXccCuK76DbbGpuSmxVKHqCPWqfz
   Sal:
