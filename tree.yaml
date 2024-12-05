@@ -214,6 +214,23 @@ products:
       met_203_vmadcp_75khz.zarr: QmNsXay3iHb3UVgBWFe3VpfqGNUbNYgh18aVumBKQ5XfpQ
     DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
     RS_METEOR_level2.zarr: QmbQe6ZfnyG6yf1A56XiqFLTd4M6ixKqEVP3q6krRV1oCt
+    Sunphotometer:
+      AOD:
+        Meteor_24_0_all_points.lev10.zarr: Qmf9LeMrko7wcmShMEuy1NJrNtgadhUyWV6X7emxNBrwkZ
+        Meteor_24_0_all_points.lev15.zarr: QmXCBDC1HJhMkDkxvsi9mbMd2bsMpMBBJ3EC9NdYaPknAc
+        Meteor_24_0_all_points.lev20.zarr: QmXoEzkmXwb5k7Eh3jdPGcyQao2Y5vDbtRSqxxuXgY3opf
+        Meteor_24_0_daily.lev15.zarr: QmPob2hZz87eBNozHozTpurAWG47njDj615nYxQr1Yvwav
+        Meteor_24_0_daily.lev20.zarr: QmR9D3N149JQ7WHMEocp2HUBPmfgSVb3xUzL2retjg5XHL
+        Meteor_24_0_series.lev15.zarr: QmdKwaMX3fRpZ2kVyX3XLFPy5Fp2YKuVkevifUQxsYtgiG
+        Meteor_24_0_series.lev20.zarr: QmVZ6MnZD6yNYiauF8KSE8BH8SfDSie3Emi6SffDhMAQoY
+      SDA:
+        Meteor_24_0_all_points.ONEILL_10.zarr: QmX4yUFbA8FEuPWA1c1hEmJJLecAei43Q3kDuunobSxWep
+        Meteor_24_0_all_points.ONEILL_15.zarr: QmVf1WdDdhRbnfXfpfmjHoehs8FjVenN2uMZ1Y5tx2FM9t
+        Meteor_24_0_all_points.ONEILL_20.zarr: QmWUkBLvikYZFADKUTD28heXwYRtVAeQYpNuZDUru6FD2S
+        Meteor_24_0_daily.ONEILL_15.zarr: QmciqCHVyQUVGJK9Cd7cUC8LiGapAyvgdFXWHPCUgpaQkW
+        Meteor_24_0_daily.ONEILL_20.zarr: QmUUpo5WEnUtsJzgtc9RYrqDj2KCq3sigHMdceCC4ZLCV1
+        Meteor_24_0_series.ONEILL_15.zarr: QmNum7ozJ2oARDN7dRYGseZnM6WWWMqYrAEaHa9cnkqPL3
+        Meteor_24_0_series.ONEILL_20.zarr: QmdEyTDVEREnHTPfLGvcXZ8LcjUqDbfdHuKRuHvXBGYuzt
   BCO:
     RS_BCO_level2.zarr: QmYjjbSAJyZm3J16pWVtduuAHuosF7RQWgnERGeZkWSUPY
   SAL:
