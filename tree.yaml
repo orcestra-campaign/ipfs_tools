@@ -213,6 +213,8 @@ products:
       met_203_vmadcp_38khz.zarr: QmSsrYEyr1Lq1Bd7Jd6d5FmYTt9EaUPp4BGS3t55ZaeUYb
       met_203_vmadcp_75khz.zarr: QmNsXay3iHb3UVgBWFe3VpfqGNUbNYgh18aVumBKQ5XfpQ
     DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
+    LICHT-LIDAR_b.zarr: Qmd4q7QyxU5omp4ugr9idt2nFvKTjyeTi92P5vAG9jBro9
+    LICHT-LIDAR_t.zarr: QmejngrC7qa8HKMs4mjzv2WYzJM3bTW93GNVoJsa1Ff7EG
     RS_METEOR_level2.zarr: QmbQe6ZfnyG6yf1A56XiqFLTd4M6ixKqEVP3q6krRV1oCt
     Sunphotometer:
       AOD:
