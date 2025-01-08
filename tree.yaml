@@ -242,6 +242,7 @@ products:
 raw:
   HALO:
     radar:
+      chrony: QmYoJUzxyvSnkV2xzmdoUHftNTGJW3CVqV8XQS5DZYHhKo
       HALO-20240718a:
         mom:
           20240718_1001.nc: QmV6JS8YMJNmLG1wFC8RDypdyCQUtpBMuLaqxi1vDMH8p2
