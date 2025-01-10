@@ -212,6 +212,8 @@ products:
     ADCP:
       met_203_vmadcp_38khz.zarr: QmSsrYEyr1Lq1Bd7Jd6d5FmYTt9EaUPp4BGS3t55ZaeUYb
       met_203_vmadcp_75khz.zarr: QmNsXay3iHb3UVgBWFe3VpfqGNUbNYgh18aVumBKQ5XfpQ
+    ceilometer:
+      CHM170158.zarr: QmPeLnsV8kC4FDTK9L2KSy1ujwDm7cgUYZHwUBA3Ktvdr8
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
     DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
     GNSS_IWV.zarr: QmaDn43D1iYrH6TaJeq87vUe7PEZ8PDbTKgBFeANwN58gr
@@ -437,6 +439,7 @@ raw:
     radiosondes: QmXi5VbJALJWgBkur2XWSTFR3bTp9HH2e6ZwrTJoTpfjqo
   METEOR:
     ADCP: QmWh5VeWmcxHswAartLQHhjZScpBZUxhvYg2mNaW4d7bGd
+    ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
     sunphotometer: QmaAzLYxEyE4vfjCSLb1NMp4QSjiJvCKutjmcxHf2UEjh4
