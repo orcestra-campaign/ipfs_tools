@@ -212,6 +212,7 @@ products:
     ADCP:
       met_203_vmadcp_38khz.zarr: QmSsrYEyr1Lq1Bd7Jd6d5FmYTt9EaUPp4BGS3t55ZaeUYb
       met_203_vmadcp_75khz.zarr: QmNsXay3iHb3UVgBWFe3VpfqGNUbNYgh18aVumBKQ5XfpQ
+    cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
     DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
     GNSS_IWV.zarr: QmaDn43D1iYrH6TaJeq87vUe7PEZ8PDbTKgBFeANwN58gr
     LICHT-LIDAR_b.zarr: Qmd4q7QyxU5omp4ugr9idt2nFvKTjyeTi92P5vAG9jBro9
