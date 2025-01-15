@@ -215,6 +215,7 @@ products:
     ceilometer:
       CHM170158.zarr: QmPeLnsV8kC4FDTK9L2KSy1ujwDm7cgUYZHwUBA3Ktvdr8
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
+    CTD.zarr: Qma9Men2YXLyEs1nV8sMnH2ei7oqTQf6x3M8Tbf2JmR53j
     DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
     GNSS_IWV.zarr: QmaDn43D1iYrH6TaJeq87vUe7PEZ8PDbTKgBFeANwN58gr
     LICHT-LIDAR_b.zarr: Qmd4q7QyxU5omp4ugr9idt2nFvKTjyeTi92P5vAG9jBro9
@@ -444,6 +445,7 @@ raw:
   METEOR:
     ADCP: QmWL9dtyXo2gxte4LZjh4V4HvwQURKLMaokXraYJu7mRp8
     ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
+    CTD: QmUVBD8RjcKWKjFp9kzi42v4rtLQEJBr6vTUsH8TZ7jNRJ
     disdrometer: QmbdN5BeciVjQjJEjou1fFGAXFwJrmgiA5b3vrHJXfyoNv
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
