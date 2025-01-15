@@ -237,6 +237,10 @@ products:
         Meteor_24_0_daily.ONEILL_20.zarr: QmUUpo5WEnUtsJzgtc9RYrqDj2KCq3sigHMdceCC4ZLCV1
         Meteor_24_0_series.ONEILL_15.zarr: QmNum7ozJ2oARDN7dRYGseZnM6WWWMqYrAEaHa9cnkqPL3
         Meteor_24_0_series.ONEILL_20.zarr: QmdEyTDVEREnHTPfLGvcXZ8LcjUqDbfdHuKRuHvXBGYuzt
+    WindLidar-Abacus:
+        v0.0.zarr: QmYTQikdRoueLkMAhqSRwJnTiq9SAEgQDXDrP69JN2XZCD
+        v1.0.zarr: QmTtvc6GYrtPkxM7G6qqdmKMK57tj3NFt7p61p1wuEDq6a
+        v2.0.zarr: QmP59hudVETzSyxhdwiCi8f9Kfa3wV5ZebzUdX3enHwLo6
   BCO:
     RS_BCO_level2.zarr: QmYjjbSAJyZm3J16pWVtduuAHuosF7RQWgnERGeZkWSUPY
   SAL:
@@ -444,3 +448,4 @@ raw:
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
+    WindLidar-Abacus: QmP8hH55iceYnrwoHctDtcBy6DjChqhM9shL5zjstcr6Wf
