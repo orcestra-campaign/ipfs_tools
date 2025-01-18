@@ -301,7 +301,7 @@
   name: ORCESTRA HEAD v48
   meta:
     prev: QmU6V6pqdGvt8zLypys4MUPuEAd51XwFcEwzk8XiMCRJ5G
-    tags: 
+    tags:
     - all
 - cid: QmWLG8SpmafT7tg6hLav7wCes3EHmGTqWw6m6JuBQU9fZP
   name: ORCESTRA HEAD v49
@@ -358,7 +358,7 @@
     - all
 - cid: Qmbx6KSDfviFFi7f5XXQLB6MSTPhWnN1rNkCCKhyhaa7CA
   name: ORCESTRA HEAD v57
-  meta: 
+  meta:
     prev: QmNrGRYLuGxC2m3kKRhiHJdaPiVW2jgHNferwQPQJLgLm3
     tags:
-    - all 
+    - all
