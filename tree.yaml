@@ -451,7 +451,8 @@ raw:
     ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
     CTD: QmUVBD8RjcKWKjFp9kzi42v4rtLQEJBr6vTUsH8TZ7jNRJ
     disdrometer: QmbdN5BeciVjQjJEjou1fFGAXFwJrmgiA5b3vrHJXfyoNv
-    DShip: QmSvZMKWETVTymrLN32cQZqjpN1xsQkWHFj3g5jfdzzbyi
+    DShip:
+      meteor_meteo_dship_20240923.nc: QmSvZMKWETVTymrLN32cQZqjpN1xsQkWHFj3g5jfdzzbyi
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
