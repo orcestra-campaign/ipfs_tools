@@ -211,8 +211,8 @@ products:
       HALO-20240928a.mp4: QmPgtTarn3wE5xosXN86HVwsSuDK915gUjEDTWbZ56pRrK
   METEOR:
     ADCP:
-      met_203_vmadcp_38khz.zarr: QmSsrYEyr1Lq1Bd7Jd6d5FmYTt9EaUPp4BGS3t55ZaeUYb
-      met_203_vmadcp_75khz.zarr: QmNsXay3iHb3UVgBWFe3VpfqGNUbNYgh18aVumBKQ5XfpQ
+      met_203_vmadcp_38khz.zarr: QmaY5UTzMDLzGMLdfyip1Pjn9ejnTx1k32tU8nQyB4XoLY
+      met_203_vmadcp_75khz.zarr: QmbgLUmWzWuf13qDNc94jPfH3AGAHsRmKDRhwtb83U2QKT
     ceilometer:
       CHM170158.zarr: QmPeLnsV8kC4FDTK9L2KSy1ujwDm7cgUYZHwUBA3Ktvdr8
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
