@@ -3,38 +3,38 @@ meta:
 products:
   HALO:
     position_attitude:
-      HALO-20240809b.zarr: QmWNY2Xj6kJvLoMTx48mLVgcm13qJwFGJsxhyZDMNJLXgu
-      HALO-20240811a.zarr: Qmf2uQrtAUAR8Pz8rXA8Ezs3Q5aySRgRvPGeY6j61uzEjq
-      HALO-20240813a.zarr: Qmc2cRMKKt1sjbLXDdAkzquToiHJCtxfyvw54er6hLX4Er
-      HALO-20240816a.zarr: QmSLGtkXriviroUsppJAVLeDwcMSpEN2Rt9eJVa6dxLVkP
-      HALO-20240818a.zarr: QmSjqP6eLzTiwRkxmt66wYY4gwaZvL8EtKvBuLoGPPrmWy
-      HALO-20240821a.zarr: QmVwFPjDBGZ5eYU2EuQRNc4tc5wLFyjyEB4jEUjh4ujtG7
-      HALO-20240822a.zarr: Qmd2FK32bXpB1SdsoxtQDPyqHP4rrti65BMSjnAm4Xcbjm
-      HALO-20240825a.zarr: QmRFqFAve35jQczucqUxjs5uj1gCR5KCJqDH2uA7iuKesB
-      HALO-20240827a.zarr: QmTNJV8dwJvj8GFLZ1wHgJKAQhJYYGWKpJ4TtaQD1KyRZp
-      HALO-20240829a.zarr: QmWmjdZw6LAtsnzhATy17MVm5Cdt1kXB5YEdDNh1W1eHwA
-      HALO-20240831a.zarr: QmZvMczLZryAhgm5UQr4xW3JQ8FqAxMHJTefqfUCVNwpKT
-      HALO-20240903a.zarr: QmZEipmYd8bRfDePW7gobeNZe1fMhh12rJ4Yybg2KdFVqu
-      HALO-20240906a.zarr: QmYNW2PC7simPM6weYWrmVSnfViqE2C4xqfedzMrBmddfb
-      HALO-20240907a.zarr: QmeBjrvxPNe18weyyGdbQnRgS47K1Fk3sUQQw9Cfw1UoLe
-      HALO-20240909a.zarr: QmRBU3i8PdQ5Y5CwuV7uqTQVEzRJhxCRwuZvARcwCf1Fix
-      HALO-20240912a.zarr: QmUt9Jm6gaDZ2wDvpUZE5B53ZsUHcsSVsmBWoygYNHMRfM
-      HALO-20240914a.zarr: QmfGLjr7TGoWPUzkcjHh7roCpAT25P8bT7PhZVAvE4ikqa
-      HALO-20240916a.zarr: QmTmAu9T12azDgimFmKNAeCEJVxyXbLG1xZZY7bG9z2sUi
-      HALO-20240919a.zarr: QmUbfX596bRvaSEx8BijTec7XHTXAE9mSLfNfdDPvzmP36
-      HALO-20240921a.zarr: QmS34B5scy8LjiY2MQrEEnmCeHE1q8Q5pV9NyjrJ1RFjEV
-      HALO-20240923a.zarr: QmPpaP9AKtZJ6dmZrRy1aEPf6V1N982DcrYWzET5XC8jwb
-      HALO-20240924a.zarr: QmcAydzh4LwMpdHPJ5zoFSvukSgFPbEicWqVumsYwzaz9B
-      HALO-20240926a.zarr: Qmf38GvsEN4pcJL94PsPiVjGC1x5Mynr85yC5N3HWFziTu
-      HALO-20240928a.zarr: QmT27KDDdyVRa6r3ikVLa5SVxnHYji4bFcUf6EtuvFZ3fi
-      HALO-20240929a.zarr: QmNXRe19AuF82Gc8T6CWQUoL2ngKYoT6Fu7SznWY48xbWn
-      HALO-20241105a.zarr: QmVPpBnAmuxxix2rHq4XJMHQ1FGM8PGYtgjMv4LgDCE1ua
-      HALO-20241107a.zarr: Qmeg12kNYke2k1n8oEu4zbbcDyqTCd6p8PLB59G7yWAcnK
-      HALO-20241110a.zarr: Qme3pkkpYST2LXdxxwBfWzE7n4s8HbHu7DgAWXEUoyBtP1
-      HALO-20241112b.zarr: QmfB9oBBHAyc9S4tm12CvQAEUJmxQTBWGGSR4yEZxTvqen
-      HALO-20241114b.zarr: QmY1zV5Pa6MZKi3PrkdJKJMKGYreyEkQsxzSPguZmQfLSS
-      HALO-20241116a.zarr: QmXv6gkrnQ6dxRnuyFn4Rbs3nSK5jhoCpjz2LqcRfKHCGB
-      HALO-20241119a.zarr: QmYH9sMRZnQdJJnFBYcGPqZxDJwYsyDRuc91A3itXNkmSx
+      HALO-20240809b.zarr: QmPQUfbcWzjUrMJckG6UvBGFbM8Jz6fgnAKHbcjtyw1DZz
+      HALO-20240811a.zarr: QmNghMHcp1vVfpkLcPwHShvotCUcSczvmaEe3xcgE74i4t
+      HALO-20240813a.zarr: QmWmZZ71iVBL2JVaxCyAZL1YSiGNSyCz8Crd5ATUdU4yv5
+      HALO-20240816a.zarr: QmXSCfiBhhnp4rkWx8tApf9KX2rLNFmcH5ZVBS4tWtSmmV
+      HALO-20240818a.zarr: QmNRPNGRrqUjTn12FkxyGwaG7vX7VxouyfBNwGCDnVKvQH
+      HALO-20240821a.zarr: QmXuHS4rbDQcMTKBqX3yakPUno4S8bY27Fz3i9o8PSAzdk
+      HALO-20240822a.zarr: QmXYFqajdj7yP6Z4fbHRkbrbvLZRb8b8F2vr26t4R7p2AP
+      HALO-20240825a.zarr: QmeBCdqnvXt3CPixBS9qsUvdCKsKJsHmmLkXmHB8QZ5HyV
+      HALO-20240827a.zarr: QmP72jR6rFXbsvWQ1t7QgXpHm5hVWYkVDNW1kZfoemXAVN
+      HALO-20240829a.zarr: QmUHLEMwDaBqaE6Xj5ca6detkzQ7CuEZQ9ehzKZKGk2qZA
+      HALO-20240831a.zarr: Qmb1Hw4z4Shb2cwWjJtEraziiQ6WwzC9PXKHXX3A4Yjpd1
+      HALO-20240903a.zarr: QmVzaDxu6Esv4skg3PQh3EYLTmpSMZdb6BB5Gj5aFG4Jfr
+      HALO-20240906a.zarr: QmTNmxyLeiM8NJgpbwaDh45wTBqUGQByWs2ToGtSpGKCcW
+      HALO-20240907a.zarr: QmZMzUBZEonomtJ3HZEqBa44n1ddCgbpNvrDVsr13wQS1W
+      HALO-20240909a.zarr: QmZVK6NUigi2kwqprNdRQSE9Z5g5EaivbTZBV1wezJVEJe
+      HALO-20240912a.zarr: QmWRPWy9W2qZVThuqBXVUAdAmsY58qZoW7z6JCeLPJDnSx
+      HALO-20240914a.zarr: Qmdt2NLPbHveCdwavUP752jf1bmaWvi8sGwbS1E2DKJJDT
+      HALO-20240916a.zarr: QmZAfBLtU6PCZT7w6dk48gsQtMQHo4cxoG81dbTwkkHcNg
+      HALO-20240919a.zarr: QmSd4XtFec5sLdQ15wTy3MfEZcsRqoVGoWTaxzFae5YhCx
+      HALO-20240921a.zarr: QmVVAHoEDbaZwx7NTtih26o1wFBd5NL6Mnf1K4tMURNZ3j
+      HALO-20240923a.zarr: QmXTAfYF6MqaBMYSG9zocXmaomqkTpEseT8SkHjgzaVNRj
+      HALO-20240924a.zarr: QmWQgwmmCxzEgGkrNSbvA7wSsyowbWxoXj93EThUHoNJnt
+      HALO-20240926a.zarr: QmVZdjWKBtny3JEDVFNcjx3JsYbtcPFKn4g7hq4iAta4aG
+      HALO-20240928a.zarr: QmXiQt9CtXATmzZ1C2fJtzn8Eys43WjeJhg5ARLjdySa67
+      HALO-20240929a.zarr: QmZHaR2SALim5sC8dsPYKiTd3tS6jfkkDGtMBt1PdXHhx8
+      HALO-20241105a.zarr: QmQpfhGhJX7qiMzXHUxoqqU4mCyjfZJ1zNNtarcEXfLWKx
+      HALO-20241107a.zarr: QmTsVGv8cBKHDJYDp1X9ccr8L1XWX6UNhLkM36H1tiSbV6
+      HALO-20241110a.zarr: QmQ6ixLJvfjVDEjk5m1Wy6LoeMvqsg5QWtqmWtAiGjdU3X
+      HALO-20241112b.zarr: QmX3xRRCbD7eQ5ix6483Bz5spic6hbDb53e7tsqdeNFWAR
+      HALO-20241114b.zarr: QmUApmHDAGZV93feARav2CgZBBiKqhFiTqYm6RZguJhiUv
+      HALO-20241116a.zarr: QmQTPncBUvCixDKYBVFwK6XxgE33JiC8pUh8kCPbfWHkRK
+      HALO-20241119a.zarr: QmUrCHAHo4Qbtn7X32ciYHYNFrpcRTWv9qoGhWZLCzu8Ed
     radar:
       moments:
         HALO-20240811a.zarr: Qmb8EgQiBTaBgTRKXhbYLvwww2G8wykh4NwL1itbbYqxgp
@@ -211,16 +211,16 @@ products:
       HALO-20240928a.mp4: QmPgtTarn3wE5xosXN86HVwsSuDK915gUjEDTWbZ56pRrK
   METEOR:
     ADCP:
-      met_203_vmadcp_38khz.zarr: QmaY5UTzMDLzGMLdfyip1Pjn9ejnTx1k32tU8nQyB4XoLY
-      met_203_vmadcp_75khz.zarr: QmbgLUmWzWuf13qDNc94jPfH3AGAHsRmKDRhwtb83U2QKT
+      met_203_vmadcp_38khz.zarr: QmV1viiXUvzLaf34xSXBAbg6zZd45fURLGYw8F2t2CZFvz
+      met_203_vmadcp_75khz.zarr: QmbzmbQxzuagih59kjmrJKYJbGTLK8Ha5GeC4Gf1rnyRKh
     ceilometer:
       CHM170158.zarr: QmPeLnsV8kC4FDTK9L2KSy1ujwDm7cgUYZHwUBA3Ktvdr8
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
-    CTD.zarr: QmfCRpMfZpsjNVEnqvmfwaLg2Dxqvsx4ePXYwAztw6fDca
+    CTD.zarr: QmcqDMG564gE53dHQQVz6dfevhXz4krw3Fg9g6jE8BBrEj
     disdrometer:
       Parsivel_1.zarr: QmQ8b826guEJQZ4UxaUFHEgVTPnP3pyHpxHYCaJeTuETvN
       Parsivel_2.zarr: QmU1Cowk7YCqV8BRJvtjDgSpGGnfQ1JuKo8XjhQFH8h7Vr
-    DShip.zarr: Qma46qwsgEecyuFW9yZE4LjRrS3j7K5BP26iUu6rvbWEtE
+    DShip.zarr: Qmd5TwSMskRQAiPBVDBaXrZJLvTFyPvcSjxSeFXLKmHsez
     GNSS_IWV.zarr: QmaDn43D1iYrH6TaJeq87vUe7PEZ8PDbTKgBFeANwN58gr
     LICHT-LIDAR_b.zarr: Qmd4q7QyxU5omp4ugr9idt2nFvKTjyeTi92P5vAG9jBro9
     LICHT-LIDAR_t.zarr: QmejngrC7qa8HKMs4mjzv2WYzJM3bTW93GNVoJsa1Ff7EG
