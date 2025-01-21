@@ -220,7 +220,7 @@ products:
     disdrometer:
       Parsivel_1.zarr: QmQ8b826guEJQZ4UxaUFHEgVTPnP3pyHpxHYCaJeTuETvN
       Parsivel_2.zarr: QmU1Cowk7YCqV8BRJvtjDgSpGGnfQ1JuKo8XjhQFH8h7Vr
-    DShip.zarr: QmaC5UZyi6PZUGYZMFz11vDpkGmxq9tZAQ9FiYbHHDpNws
+    DShip.zarr: Qma46qwsgEecyuFW9yZE4LjRrS3j7K5BP26iUu6rvbWEtE
     GNSS_IWV.zarr: QmaDn43D1iYrH6TaJeq87vUe7PEZ8PDbTKgBFeANwN58gr
     LICHT-LIDAR_b.zarr: Qmd4q7QyxU5omp4ugr9idt2nFvKTjyeTi92P5vAG9jBro9
     LICHT-LIDAR_t.zarr: QmejngrC7qa8HKMs4mjzv2WYzJM3bTW93GNVoJsa1Ff7EG
@@ -451,6 +451,7 @@ raw:
     ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
     CTD: QmUVBD8RjcKWKjFp9kzi42v4rtLQEJBr6vTUsH8TZ7jNRJ
     disdrometer: QmbdN5BeciVjQjJEjou1fFGAXFwJrmgiA5b3vrHJXfyoNv
+    DShip: QmSvZMKWETVTymrLN32cQZqjpN1xsQkWHFj3g5jfdzzbyi
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
