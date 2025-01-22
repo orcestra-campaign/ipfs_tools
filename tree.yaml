@@ -214,38 +214,38 @@ products:
       met_203_vmadcp_38khz.zarr: QmV1viiXUvzLaf34xSXBAbg6zZd45fURLGYw8F2t2CZFvz
       met_203_vmadcp_75khz.zarr: QmbzmbQxzuagih59kjmrJKYJbGTLK8Ha5GeC4Gf1rnyRKh
     ceilometer:
-      CHM170158.zarr: QmPeLnsV8kC4FDTK9L2KSy1ujwDm7cgUYZHwUBA3Ktvdr8
+      CHM170158.zarr: QmY9D5NSGEBRUXGtbHsfRt1VKHBXzv8985weJ5scHuWPv9
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
     CTD.zarr: QmcqDMG564gE53dHQQVz6dfevhXz4krw3Fg9g6jE8BBrEj
     disdrometer:
-      Parsivel_1.zarr: QmQ8b826guEJQZ4UxaUFHEgVTPnP3pyHpxHYCaJeTuETvN
-      Parsivel_2.zarr: QmU1Cowk7YCqV8BRJvtjDgSpGGnfQ1JuKo8XjhQFH8h7Vr
+      Parsivel_1.zarr: QmbtRRryuKVNP8dqZipGD1h35cPUUks4mPADKd3TeWmFtU
+      Parsivel_2.zarr: Qmdbq1Ux1aqT3EUDLxaDDa7rQXMEWf6Rmw1KDhdHVbuSfR
     DShip.zarr: Qmd5TwSMskRQAiPBVDBaXrZJLvTFyPvcSjxSeFXLKmHsez
-    GNSS_IWV.zarr: QmaDn43D1iYrH6TaJeq87vUe7PEZ8PDbTKgBFeANwN58gr
-    LICHT-LIDAR_b.zarr: Qmd4q7QyxU5omp4ugr9idt2nFvKTjyeTi92P5vAG9jBro9
-    LICHT-LIDAR_t.zarr: QmejngrC7qa8HKMs4mjzv2WYzJM3bTW93GNVoJsa1Ff7EG
+    GNSS_IWV.zarr: QmPgdk4hJYY7B6z4ZFF5KALgWUattd6KedL3VjMphxaZb8
+    LICHT-LIDAR_b.zarr: Qmf2VwMu7Vfre79BQakJ8cKUCidbdkokF9YZWYgHJasc1o
+    LICHT-LIDAR_t.zarr: QmdfWPvEym2M1Jd8YwsRZSSK4cnEP8KYq9GcZ6oNDRaAcE
     RS_METEOR_level2.zarr: QmbQe6ZfnyG6yf1A56XiqFLTd4M6ixKqEVP3q6krRV1oCt
     Sunphotometer:
       AOD:
-        Meteor_24_0_all_points.lev10.zarr: Qmf9LeMrko7wcmShMEuy1NJrNtgadhUyWV6X7emxNBrwkZ
-        Meteor_24_0_all_points.lev15.zarr: QmXCBDC1HJhMkDkxvsi9mbMd2bsMpMBBJ3EC9NdYaPknAc
-        Meteor_24_0_all_points.lev20.zarr: QmXoEzkmXwb5k7Eh3jdPGcyQao2Y5vDbtRSqxxuXgY3opf
-        Meteor_24_0_daily.lev15.zarr: QmPob2hZz87eBNozHozTpurAWG47njDj615nYxQr1Yvwav
-        Meteor_24_0_daily.lev20.zarr: QmR9D3N149JQ7WHMEocp2HUBPmfgSVb3xUzL2retjg5XHL
-        Meteor_24_0_series.lev15.zarr: QmdKwaMX3fRpZ2kVyX3XLFPy5Fp2YKuVkevifUQxsYtgiG
-        Meteor_24_0_series.lev20.zarr: QmVZ6MnZD6yNYiauF8KSE8BH8SfDSie3Emi6SffDhMAQoY
+        Meteor_24_0_all_points.lev10.zarr: QmdmzC5FL6mWTbSTZaUfqpppr7B6Ktf5xbM7jreLTvach9
+        Meteor_24_0_all_points.lev15.zarr: QmaGvNiV4XmKH2Pxnd2Bnf3kyWx7zErymndZVx3m232x7E
+        Meteor_24_0_all_points.lev20.zarr: QmQaWMMDGBEKADR6eWSjemeiF7w2NT6DKaBRhZ1p5u2vPT
+        Meteor_24_0_daily.lev15.zarr: QmVnv3dwMq8eCttT2V8KJJNPj6dpMAgfDcizY9gSzgUAY8
+        Meteor_24_0_daily.lev20.zarr: QmSoxpQ84beJxt4zHLwV9gkdayiWPx5NSksDbTrmD82jpJ
+        Meteor_24_0_series.lev15.zarr: QmdGirqUpjqSJJd6sURtjR3QFdDX686fCVYF9DJ3mYYFp7
+        Meteor_24_0_series.lev20.zarr: QmeGk1kbyVbEN8oPjYZ53faEZzWALcXG1oBh5BNpByqxXA
       SDA:
-        Meteor_24_0_all_points.ONEILL_10.zarr: QmX4yUFbA8FEuPWA1c1hEmJJLecAei43Q3kDuunobSxWep
-        Meteor_24_0_all_points.ONEILL_15.zarr: QmVf1WdDdhRbnfXfpfmjHoehs8FjVenN2uMZ1Y5tx2FM9t
-        Meteor_24_0_all_points.ONEILL_20.zarr: QmWUkBLvikYZFADKUTD28heXwYRtVAeQYpNuZDUru6FD2S
-        Meteor_24_0_daily.ONEILL_15.zarr: QmciqCHVyQUVGJK9Cd7cUC8LiGapAyvgdFXWHPCUgpaQkW
-        Meteor_24_0_daily.ONEILL_20.zarr: QmUUpo5WEnUtsJzgtc9RYrqDj2KCq3sigHMdceCC4ZLCV1
-        Meteor_24_0_series.ONEILL_15.zarr: QmNum7ozJ2oARDN7dRYGseZnM6WWWMqYrAEaHa9cnkqPL3
-        Meteor_24_0_series.ONEILL_20.zarr: QmdEyTDVEREnHTPfLGvcXZ8LcjUqDbfdHuKRuHvXBGYuzt
+        Meteor_24_0_all_points.ONEILL_10.zarr: QmcTgZ3qtvVbyC2ni5YJg67eMQnRP5YKqMe1RGeSsUNisL
+        Meteor_24_0_all_points.ONEILL_15.zarr: QmbTRbQukucNyuhjqtik9qNcQFDVJNaD5X9AT4Q16tHt1z
+        Meteor_24_0_all_points.ONEILL_20.zarr: QmY8aqyBXQoyYFSTjNRC2FcSxc2hzkixRXU9C7bpmujNJ9
+        Meteor_24_0_daily.ONEILL_15.zarr: QmQNJZCUG4s4ne4Bn1UtxQRkCyQZcM9ujiuq3GDwiXeLd4
+        Meteor_24_0_daily.ONEILL_20.zarr: QmP1mW2mJ6RucrETcPynHhvVCZzSafMRyDLkkcNXXzMEhV
+        Meteor_24_0_series.ONEILL_15.zarr: QmPCJx67rfa1VQFNMJ5r4A1hHWPgwD1ABbePXcbN2erhg1
+        Meteor_24_0_series.ONEILL_20.zarr: QmT5nWZJmrKPa95fMXnaeTQxBDavYgE4i6uZpNV8ee4BNP
     WindLidar-Abacus:
-        v0.0.zarr: QmYTQikdRoueLkMAhqSRwJnTiq9SAEgQDXDrP69JN2XZCD
-        v1.0.zarr: QmTtvc6GYrtPkxM7G6qqdmKMK57tj3NFt7p61p1wuEDq6a
-        v2.0.zarr: QmP59hudVETzSyxhdwiCi8f9Kfa3wV5ZebzUdX3enHwLo6
+      v0.0.zarr: QmRXxTYM3hs1d21uZNJuUJ6zBbYjt6LLb9o5zvJUMLRRAt
+      v1.0.zarr: QmSRhB3AJfrjUtAgdB9Fcfx4vRMyTiGJvcZVuL2avbj1Gz
+      v2.0.zarr: QmVEr6TEEs562S84FBqqsdvkG6GZ7ct3nJLqyZWxSyxfQx
   BCO:
     RS_BCO_level2.zarr: QmYjjbSAJyZm3J16pWVtduuAHuosF7RQWgnERGeZkWSUPY
   SAL:
