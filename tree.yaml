@@ -242,6 +242,7 @@ products:
         Meteor_24_0_daily.ONEILL_20.zarr: QmP1mW2mJ6RucrETcPynHhvVCZzSafMRyDLkkcNXXzMEhV
         Meteor_24_0_series.ONEILL_15.zarr: QmPCJx67rfa1VQFNMJ5r4A1hHWPgwD1ABbePXcbN2erhg1
         Meteor_24_0_series.ONEILL_20.zarr: QmT5nWZJmrKPa95fMXnaeTQxBDavYgE4i6uZpNV8ee4BNP
+    thermosalinograph.zarr: QmZAaA4UmhuyPnt8HtTj665EaGwT34aGgTSchtXAXPHGFj
     WindLidar-Abacus:
       v0.0.zarr: QmRXxTYM3hs1d21uZNJuUJ6zBbYjt6LLb9o5zvJUMLRRAt
       v1.0.zarr: QmSRhB3AJfrjUtAgdB9Fcfx4vRMyTiGJvcZVuL2avbj1Gz
