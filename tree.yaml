@@ -456,4 +456,7 @@ raw:
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
+    thermosalinograph:
+      M203_surf_oce.nc: QmPzRf5CWUdUZGz81FH56MPGZ2HUVBm8PTSchs1zuZWwdB
+      M203_surf_oce.tab: QmaGxny8GvTGQ4aXc3AZZH2o9uoygeiGmarLpV86ysJ3dv
     WindLidar-Abacus: QmP8hH55iceYnrwoHctDtcBy6DjChqhM9shL5zjstcr6Wf
