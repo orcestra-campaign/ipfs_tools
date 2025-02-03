@@ -2,6 +2,7 @@ meta:
   flight-ids: bafkreib4eflxdm72w7rayrykxk4ksscaapwfqesm3gf3df3mrcpkyzd45y
 products:
   HALO:
+    position_attitude.zarr: QmPcEqDcWiP4VvTjKCBthPK21muEC819ze5SZY5LdTdF5J
     position_attitude:
       HALO-20240809b.zarr: QmRjUJrGHAFq5goxSufTLoMvyWNq7wPtgqprgo84AAerWp
       HALO-20240811a.zarr: QmcPD9hAq3yaooCRgS85LTz3AUi5h9sR9XbqHRMaNQmmGA
