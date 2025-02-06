@@ -217,7 +217,7 @@ products:
     ceilometer:
       CHM170158.zarr: QmaAiM55c9dB2zWBuoUsrb2DPycznFFEKZrVZvDt2uuuEJ
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
-    CTD.zarr: QmS1pHZQ3sBU7aXQme2NdcZajD4SWze41cLxUguSeB8NEa
+    CTD.zarr: QmeNTnoRcQ6bjs7XnT6eD1thazv4ct8GnECF57zn4fq2RZ
     disdrometer:
       Parsivel_1.zarr: QmfCXyZiyfDRoXPd75cADPNrah3AGuzezf9pM2jyWMX7fe
       Parsivel_2.zarr: QmYWKEsi16p2h8H1Fv4JsVVZUsho2fxh7QG21j9vSfbFF3
@@ -243,7 +243,7 @@ products:
         Meteor_24_0_daily.ONEILL_20.zarr: Qmegat5VkA44FVfost5Z8v3zCydJ5TdgjJqfaGCRz678Wu
         Meteor_24_0_series.ONEILL_15.zarr: QmSrWbRqaQo73povikga1UXWMm3PNmDP7SdMTb7u9w9M3b
         Meteor_24_0_series.ONEILL_20.zarr: QmYftvziDbrhezpEHZbckFzzFiaXdS5xdrhJNqby7Se5ep
-    thermosalinograph.zarr: QmYmQyceWXNwfqDPvNfPwkhvjkv4tZgU13T24iQApmdyy4
+    thermosalinograph.zarr: QmRag9ja658Houqp4r4qg8FRDTuun2X3nNAkqVVQDtwGHB
     WindLidar-Abacus:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
