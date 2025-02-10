@@ -223,9 +223,9 @@ products:
       DSD_METEOR1_RES.nc: QmYSgd5XxJthgmnCznoUijEHPmBk2VnK28FQBCDiGR8Mvn
       DSD_METEOR2_RES.nc: QmYbci6hGkhaL97qMtYwoSbwrCW1AEuWi1hdMHwaNLEmee
       DSD_METEOR_merged.nc: QmQovLAPfRo8Dxnsno1mSjY4ZW6DycmoHxsiFM3fyY1y5V
-      DSD_METEOR1_RES.zarr: QmdsEKm5SHhTCsKXAJMG8yWpPQf9ELhYQMixurE1PvT3ZA
-      DSD_METEOR2_RES.zarr: QmRZzGDw3BGQLaExqUD7729ZVFgzqy4MXv8Q6yG5cn6X7X
-      DSD_METEOR_merged.zarr: QmTjrwpsUmtNoERqByFkfP8VUmvAYps9vgpKuA5uYT4z25
+      DSD_METEOR1_RES.zarr: QmTpyBWDospfcLFdFqWg5FLeSH6cLZwxxoq6vk2wMDKUqt
+      DSD_METEOR2_RES.zarr: QmNUpGrBgQa4mpLmbKZwH71u9suxub3tnv99cEZ5pJBNUQ
+      DSD_METEOR_merged.zarr: Qme2WqrMLvY6gtuBgrfoymNgVAinKqmJzENrbcGA5zFax9
     DShip.zarr: QmSSrT1UdtocfQS5yWSHFEJwJjqcNXjq2F1QfvNgLuEqSN
     GNSS_IWV.zarr: QmZ8qAy5TAideiPua2Ri2DwU1rRfZjiGLJkbSzJDN2bfxA
     LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
