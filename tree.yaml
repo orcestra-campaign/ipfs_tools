@@ -1,6 +1,14 @@
 meta:
   flight-ids: bafkreib4eflxdm72w7rayrykxk4ksscaapwfqesm3gf3df3mrcpkyzd45y
 products:
+  ATR-42:
+    CHEMISTRY_10SEC_L1.zarr: Qmby7pegamDerhYT5Lbi17kJ4ZNuQCM3j13uzD5S4M38Qw
+    CORE_NAV_1HZ_L2.zarr: QmZbmLjLvsVwYnEkeR7CzMaQXmnFbccNGzJUiwJ1hSPu4B
+    CORE_TDYN_1HZ_L2.zarr: QmW7eRTHj2PAUR2YSJz7YpgmNyPvRVgZnQk6HRCUFE54TA
+    FAST_25HZ_L2.zarr: QmPPT5ns8pA1zZ1huM4t5DjXuzxLrD1s3VHctbzmqCojWi
+    LWC_1HZ_L2.zarr: QmPyJjWCMUivR78nfNY6x13g5GqJLjftpHMYz4CvXSKqzE
+    RADIATION_1HZ_L2.zarr: QmPjdKEX55K6ZuAwJ3bzcaiEZ3MSgsvA4QNYs4mt2gGLTw
+    SPP300_1HZ_L2.zarr: Qmf6yF4UMT2fNgaiHAAAdb7ZULhxuFTzx6tiiq8hKodjfP
   HALO:
     position_attitude.zarr: QmPcEqDcWiP4VvTjKCBthPK21muEC819ze5SZY5LdTdF5J
     position_attitude:
