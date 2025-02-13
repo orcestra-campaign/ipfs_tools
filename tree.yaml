@@ -276,6 +276,10 @@ raw:
       HALO-20240730a:
         mom:
           20240730_0829.nc: QmTp1fz5oUsJWzrDWeHHPpxcXowj7wwUccjz2rtvaqsg7y
+      HALO-20240809b:
+        mom:
+          20240809_0952.nc: QmWNu82ZUsVEGM3oKqCiXP3SznNXF1HqYrnCRn6pr38Vrr
+          20240809_1053.nc: QmU9LYgzYsFB9Y9PA6U58LySGFGFWBXPGcigMXWjNq7dgC
       HALO-20240811a:
         mom:
           20240811_1215.nc: QmVNftBT4yDQjdJzR6RBs3MHGKXSTVDVxv14BC1EiJMDkm
@@ -292,6 +296,9 @@ raw:
       HALO-20240822a:
         mom:
           20240822_1134.nc: QmRA9fBjYNnQdboBEDWFgVyGJ8GGPMjYqjgTweosFNPpuw
+      HALO-20240825a:
+        mom:
+          20240825_0935.nc: QmRctSx6haceacaoaZjhYb51i97FcMKNpGidpenDJFoPaT
       HALO-20240827a:
         mom:
           20240827_1009.nc: QmXS7FvKrnb6uuW6UmfPqrYCsHBfzRDrQcgn4a2ftVLbqQ
