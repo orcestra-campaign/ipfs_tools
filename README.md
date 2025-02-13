@@ -40,3 +40,12 @@ A simple way to e.g pin only dropsonde data could be:
 ```bash
 cat pinlist.yaml | yq '.[] | select(.meta.tags.[] == "dropsonde").cid' | xargs ipfs pin add -r
 ```
+
+## HEAD CIDs
+
+The most common entry in the pinlist is the so-called "HEAD CID", which is a recursive pin pointing to the entire ORCESTRA dataset.
+This CID is intended for easy mirroring of the whole dataset at different locations (e.g. DKRZ in Germany, CIMH in Barbados).
+
+The HEAD CID can be created by writing the whole dataset tree to the [Mutable File System](https://docs.ipfs.tech/concepts/file-systems/#mutable-file-system-mfs) (MFS).
+The structure of the dataset tree and the associated CIDs are defined by the `tree.yaml` file.
+The convenience script `scripts/write_tree.py` can be used to write the tree currently described in `tree.yaml` to the MFS and retrieve the HEAD CID.
