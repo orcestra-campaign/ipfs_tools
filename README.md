@@ -16,18 +16,16 @@ It may be necessary to pin only subsets of all CIDs depending on available stora
 
 
 ```
-cid: bafy...
-name: Dropsonde data v1
+cid: Qmas...
+name: ORCESTRA HEAD v42
 meta:
-  tags: [dropsonde]
+  tags: [all]
 ```
 
 Currently known `tags` are:
 
-* `bahamas`: For BAHAMAS data
-* `catalog`: For catalogs: they are important and should be quickly retrievable for everyone, but usually aren't very big in size.
-* `dropsonde`: For dropsonde data
-* `radiosonde`: For radiosonde data
+* `all`: For "head" CIDs pointing to the whole ORCESTRA dataset
+* `aux`: For auxiliary data that should be available on processing sites, but is not part of the ORCESTRA dataset
 
 ### Pinning the list
 
