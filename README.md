@@ -49,3 +49,21 @@ This CID is intended for easy mirroring of the whole dataset at different locati
 The HEAD CID can be created by writing the whole dataset tree to the [Mutable File System](https://docs.ipfs.tech/concepts/file-systems/#mutable-file-system-mfs) (MFS).
 The structure of the dataset tree and the associated CIDs are defined by the `tree.yaml` file.
 The convenience script `scripts/write_tree.py` can be used to write the tree currently described in `tree.yaml` to the MFS and retrieve the HEAD CID.
+
+## Asynchronous pinning
+
+One caveat of the current Pull Request (PR) based pinning system is the need for synchronicity between the merging of a new dataset and the availability of that data.
+This means that the data is initially only available on the system of the data provider who has opened a PR to add their data.
+In order to merge that PR, the data must be available, i.e. the data provider's system must be reachable.
+This is likely to be the case for servers or HPC systems, but less likely for personal computers of virtual machines.
+
+A possible workaround is to create Content Addressable Archives (CAR).
+These archives bundle the (recursive) CIDs together with the data.
+You can create a CAR for a given CID by running
+
+```sh
+ipfs dag export <CID> > <CID>.car
+```
+
+The resulting CAR can then be made available when opening a PR (e.g. on the Levante file system or via a file sharing provider, depending on size).
+The CAR can then also be used to pin the data if the data provider's system is unreachable.
