@@ -10,6 +10,7 @@ products:
     RADIATION_1HZ_L2.zarr: QmPjdKEX55K6ZuAwJ3bzcaiEZ3MSgsvA4QNYs4mt2gGLTw
     SPP300_1HZ_L2.zarr: Qmf6yF4UMT2fNgaiHAAAdb7ZULhxuFTzx6tiiq8hKodjfP
   HALO:
+    BAHAMAS_QL.zarr: QmNZspwyTeNTvTMN3FSxaNXmjftMfZC4mA6WDy7dtAJ79k
     position_attitude.zarr: QmPcEqDcWiP4VvTjKCBthPK21muEC819ze5SZY5LdTdF5J
     HAMP:
       full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
