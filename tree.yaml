@@ -136,7 +136,7 @@ products:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
       v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
-  RS_ORCESTRA_level2.zarr: QmXCzAE2rgCiWqKAZWz72zoHipbStBMu7PbD8kzHEmYDQX
+  RS_ORCESTRA_level2.zarr: QmaGNakQCpjZpTuxbRBf6Th3d2GwprTMP71Bfa4Rf6GZsd
 
 raw:
   HALO:
@@ -340,9 +340,9 @@ raw:
       HALO-20240926a: QmQJdk9Y5L4x28cec8vq14EHu6tvwvJVZK7ZmdUqBMQYef
       HALO-20240928a: QmcLaASBJRkuSFZQbJrG8nmSZSS5tKkYvjZNHtinM2hqEa
   BCO:
-    radiosondes: Qmas4RGRpsq1tsyg8XRXccCuK76DbbGpuSmxVKHqCPWqfz
+    radiosondes: QmdBrPNQMdxsSsE8sCArifbgPYv8ThurJ7ZBfq5LipEuf9
   Sal:
-    radiosondes: QmXi5VbJALJWgBkur2XWSTFR3bTp9HH2e6ZwrTJoTpfjqo
+    radiosondes: Qmax2AbSykVxvxfPUgtZswnLXVJZXjRKBDJyvcgRkLDsYQ
   METEOR:
     ADCP: QmWL9dtyXo2gxte4LZjh4V4HvwQURKLMaokXraYJu7mRp8
     ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
@@ -351,7 +351,7 @@ raw:
     DShip:
       meteor_meteo_dship_20240923.nc: QmSvZMKWETVTymrLN32cQZqjpN1xsQkWHFj3g5jfdzzbyi
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
-    radiosondes: QmNR2XJvp6CzybP4EXqvERftQcf2tKwPAGg5DATGJQS8pp
+    radiosondes: QmZ37CVnvWncKW8h88VyrYifENxUKKLP6ss1Q6vocNGwtV
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
     thermosalinograph:
       M203_surf_oce.nc: QmPzRf5CWUdUZGz81FH56MPGZ2HUVBm8PTSchs1zuZWwdB
