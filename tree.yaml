@@ -114,7 +114,6 @@ products:
     ISAR_SST.zarr: QmQnG9B21YCJUbvb1o15iyJobwQQMAx3pFxHr412CMUTwU
     LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
     LICHT-LIDAR_t.zarr: QmZ6y4t1UQ4JgrNtcpnSTdX2uxeN2hsfodDDfJQETAdBzB
-    RS_METEOR_level2.zarr: QmbQe6ZfnyG6yf1A56XiqFLTd4M6ixKqEVP3q6krRV1oCt
     Sunphotometer:
       AOD:
         Meteor_24_0_all_points.lev10.zarr: QmSZ1DjTtoD8mnPYzK2cVQ1D83Rkwba2vM5ZYF5v8TWvKd
@@ -137,10 +136,6 @@ products:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
       v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
-  BCO:
-    RS_BCO_level2.zarr: QmYjjbSAJyZm3J16pWVtduuAHuosF7RQWgnERGeZkWSUPY
-  SAL:
-    RS_SAL_level2.zarr: QmP968RrntvFvQVUVHTDBJk2SsQNHtj7DiGnUSriZj6WLn
 
 raw:
   HALO:
