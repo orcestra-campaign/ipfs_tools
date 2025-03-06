@@ -137,7 +137,7 @@ products:
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
       v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
   Radiosondes:
-    RS_ORCESTRA_level2.zarr: QmaGNakQCpjZpTuxbRBf6Th3d2GwprTMP71Bfa4Rf6GZsd
+    RS_ORCESTRA_level2.zarr: QmX45H11tfY1g3vPHSgUf3KM8XYTVJMgyAEvvu6Wo2Jd9L
     RS_Oscillating_ORCESTRA_level1.zarr: QmUYD3gW6v4K9MnSE97QGZgcWJWK2kfgXWXcRJinBa9Kjn
 
 raw:
