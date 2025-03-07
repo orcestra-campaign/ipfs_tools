@@ -137,8 +137,8 @@ products:
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
       v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
   Radiosondes:
-    RS_ORCESTRA_level2.zarr: QmNkUou6Jt7GtFBekFiiAGmUxxfZwbxGw3ddgB6hCee6o4
-    RS_Oscillating_ORCESTRA_level1.zarr: QmUYD3gW6v4K9MnSE97QGZgcWJWK2kfgXWXcRJinBa9Kjn
+    RS_ORCESTRA_level2.zarr: QmYRXNmScwhdZn1mMumC8HtqmqhTyrJJHgBgmBkjCXK7HU
+    RS_Oscillating_ORCESTRA_level1.zarr: QmVsFoFCSU661EWukv5W2ponDVz46zmxgzXRpPZ1fXsbkp
 
 raw:
   HALO:
@@ -343,8 +343,8 @@ raw:
       HALO-20240928a: QmcLaASBJRkuSFZQbJrG8nmSZSS5tKkYvjZNHtinM2hqEa
   BCO:
     radiosondes: QmdBrPNQMdxsSsE8sCArifbgPYv8ThurJ7ZBfq5LipEuf9
-  Sal:
-    radiosondes: Qmax2AbSykVxvxfPUgtZswnLXVJZXjRKBDJyvcgRkLDsYQ
+  INMG:
+    radiosondes: QmQZqjceDp4prUJr3wFhiiexJeA9hkPinM71361cUQQsMR
   METEOR:
     ADCP: QmWL9dtyXo2gxte4LZjh4V4HvwQURKLMaokXraYJu7mRp8
     ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
