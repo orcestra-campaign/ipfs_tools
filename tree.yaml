@@ -137,8 +137,8 @@ products:
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
       v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
   Radiosondes:
-    RS_ORCESTRA_level2.zarr: QmNkUou6Jt7GtFBekFiiAGmUxxfZwbxGw3ddgB6hCee6o4
-    RS_Oscillating_ORCESTRA_level1.zarr: QmUYD3gW6v4K9MnSE97QGZgcWJWK2kfgXWXcRJinBa9Kjn
+    RS_ORCESTRA_level2.zarr: QmYRXNmScwhdZn1mMumC8HtqmqhTyrJJHgBgmBkjCXK7HU
+    RS_Oscillating_ORCESTRA_level1.zarr: QmS513yaYkW89SxHs758b6n9U2rhSbyeUq8fGeWAkxqVxK
 
 raw:
   HALO:
