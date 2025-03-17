@@ -68,7 +68,8 @@ products:
         HALO-20240926a: QmdEWC8DrFAgEvHhKbpi6ShLaZGWTYcKiRWsfEfPyKRHEq
         HALO-20240928a: QmXFFani6cWW7QGNF52RrFq1HHtC1MD6NfebK7xwUE6fYM
       Level_3:
-        PERCUSION_Level_3.zarr: QmanzsQBqHuVJywmtvcRDuBzRb1jQj2bDiyN2nnKxMDxoy
+        PERCUSION_Level_3.zarr: QmSmnMzgsSLs7PSoq9sd5hvWHRzUG8uYnEPWwfQxH341Xx
+        PERCUSION_Level_3_qc.zarr: QmetG8kEcEeXeonramZBvQG59mfSAGz8UgQe9ZQ5tjZyrA
     flight_animations:
       HALO-20240811a.mp4: QmZq3bWjAAMnU96WzwG79aNdVDRJsiJYohaTX3ELGDUhfF
       HALO-20240813a.mp4: QmZvPRwxJS78imNvBxYaXZUGzggcywpN4TaXRQy3tJJruH
