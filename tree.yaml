@@ -70,6 +70,8 @@ products:
       Level_3:
         PERCUSION_Level_3.zarr: QmSmnMzgsSLs7PSoq9sd5hvWHRzUG8uYnEPWwfQxH341Xx
         PERCUSION_Level_3_qc.zarr: QmetG8kEcEeXeonramZBvQG59mfSAGz8UgQe9ZQ5tjZyrA
+      Level_4:
+        PERCUSION_Level_4.zarr: Qmet95KyTBvyn22nfNHZZtc6BwcrYphMQZ9z6JZhsWvkZJ
     flight_animations:
       HALO-20240811a.mp4: QmZq3bWjAAMnU96WzwG79aNdVDRJsiJYohaTX3ELGDUhfF
       HALO-20240813a.mp4: QmZvPRwxJS78imNvBxYaXZUGzggcywpN4TaXRQy3tJJruH
