@@ -134,7 +134,13 @@ products:
         Meteor_24_0_daily.ONEILL_20.zarr: Qmegat5VkA44FVfost5Z8v3zCydJ5TdgjJqfaGCRz678Wu
         Meteor_24_0_series.ONEILL_15.zarr: QmSrWbRqaQo73povikga1UXWMm3PNmDP7SdMTb7u9w9M3b
         Meteor_24_0_series.ONEILL_20.zarr: QmYftvziDbrhezpEHZbckFzzFiaXdS5xdrhJNqby7Se5ep
-    thermosalinograph.zarr: QmPi8b2LnBCiLhC19ec9uCN8YyKmHp2r1HP4T23HFsZ8xP
+    SeaSnake:
+      met_203_1_SeaSnake.nc: QmQCwR1GfrVkJojVnpf5WXyTzaN7bspXDxaGRhS6ukWhrs
+      met_203_1_SeaSnake.zarr: QmXvjfzggSLwRvLyrhAo7X9o6wkHaciKRPWdGQ3fxXMzrU
+    thermosalinograph:
+      met_203_1_tsal.nc: Qmcc91KSJ18iZGzGzS1vcDfS2XGxVmhvRQtUEoeo6MwRSw
+      met_203_1_tsal.zarr: QmZSVETjZ38bYHBQBMjyEadqUtE93GVqAmLCaePeDkdDoy
+      DAM_DataProcessingReport_M203.pdf: Qmf3brMyYjgGCvnsJmNncDaDswcfcDhmfRz7w4x8Nnumc6
     WindLidar-Abacus:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
@@ -358,7 +364,4 @@ raw:
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
     radiosondes: QmZ37CVnvWncKW8h88VyrYifENxUKKLP6ss1Q6vocNGwtV
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
-    thermosalinograph:
-      M203_surf_oce.nc: QmPzRf5CWUdUZGz81FH56MPGZ2HUVBm8PTSchs1zuZWwdB
-      M203_surf_oce.tab: QmaGxny8GvTGQ4aXc3AZZH2o9uoygeiGmarLpV86ysJ3dv
     WindLidar-Abacus: QmP8hH55iceYnrwoHctDtcBy6DjChqhM9shL5zjstcr6Wf
