@@ -5,3 +5,6 @@
   Addrs: ["/ip4/136.172.60.151/tcp/4001/", "/ip4/136.172.60.151/udp/4001/quic-v1"]
 - name: raspberrypint
   ID: 12D3KooWDxsa98TAgDRVRby6bPxvnHfqBdL1hHBqMqP2PWoSHmcJ
+- name: swifty
+  ID: 12D3KooWBWikPAjn7SeWVY5uzi42mncf2qdYZu88eFjroVaQ46jw
+  Addrs: ["/ip4/141.5.102.128/tcp/4001/", "/ip4/141.5.102.128/udp/4001/quic-v1"]
