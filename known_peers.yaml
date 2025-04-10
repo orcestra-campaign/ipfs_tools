@@ -8,3 +8,6 @@
 - name: swifty
   ID: 12D3KooWBWikPAjn7SeWVY5uzi42mncf2qdYZu88eFjroVaQ46jw
   Addrs: ["/ip4/141.5.102.128/tcp/4001/", "/ip4/141.5.102.128/udp/4001/quic-v1"]
+- name: GWDG
+  ID: 12D3KooWDdCeowNSfi4nGL6C1nGEDYH8yh97dzeDXDmEmpqLc5Tm
+  Addrs: ["/ip4/141.5.109.150/tcp/4001", "/ip4/141.5.109.150/udp/4001/quic-v1"]
