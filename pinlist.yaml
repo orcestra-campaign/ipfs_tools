@@ -524,3 +524,8 @@
     prev: QmYqKyecLfgz3wKFjcJWpio9m6yibgDxou8MSseXLXcUDR
     tags:
     - all
+- cid: QmU9ShLg6NgWG2VxYddgWjynUYZtZvfw1EBFHtPAwmWjYK
+  name: Subset of GSMaP (v4) MVK-Gauge hourly data v1
+  meta:
+    tags:
+    - aux
