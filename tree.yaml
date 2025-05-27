@@ -117,6 +117,11 @@ products:
     ISAR_SST.zarr: QmQnG9B21YCJUbvb1o15iyJobwQQMAx3pFxHr412CMUTwU
     LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
     LICHT-LIDAR_t.zarr: QmZ6y4t1UQ4JgrNtcpnSTdX2uxeN2hsfodDDfJQETAdBzB
+    rain_gauge:
+      Hinweise_und_Abkuerzungen.txt: bafkreifh66ejafyu2yrpz63zmavdpgbf7sihnr7svosujhladvp2paiswa
+      M203_Niederschlag_Stand_240923-2227.log: QmdxMqRNRKrp9sWPCumSRMoaBKKAMTASSymYVUDswokH73
+      M203_Niederschlag_Stand_240923-2227.zarr: QmYQpz2ew8GYa58aED5h2ViYLWtq99bYWvxVNw7KuNaASs
+      Regenmesser_und_PWD22.pdf: bafkreifzpdoawlrj46tweqd52uaqb5ytidenjd4imd5woztngmg4ncpjvy
     Sunphotometer:
       AOD:
         Meteor_24_0_all_points.lev10.zarr: QmSZ1DjTtoD8mnPYzK2cVQ1D83Rkwba2vM5ZYF5v8TWvKd
