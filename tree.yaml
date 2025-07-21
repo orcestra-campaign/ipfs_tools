@@ -115,7 +115,11 @@ products:
       DSD_METEOR_merged.zarr: Qme2WqrMLvY6gtuBgrfoymNgVAinKqmJzENrbcGA5zFax9
     DShip.zarr: QmSSrT1UdtocfQS5yWSHFEJwJjqcNXjq2F1QfvNgLuEqSN
     GNSS_IWV.zarr: QmZ8qAy5TAideiPua2Ri2DwU1rRfZjiGLJkbSzJDN2bfxA
-    HATPRO-single.zarr: QmRkg2HvADeQTmrDZvadWPgiLxV2A1SborgfbPFwRPzGCd
+    HATPRO:
+      hatpro_multi_part1.zarr: QmZHV4jQkPhPKP8CWoTSm47pMrzjoaJ5kbrB4jHZFvHhkN
+      hatpro_multi_part2.zarr: QmQuEa46ApH7sxuEsvJEbCy8rFXh7bGAmV1GUyJf7eoCxk
+      hatpro_single_part1.zarr: QmQnEdGm2P86hURFmh8MWQZQbBRwyHG6cUrKgRoeoAQZ9N
+      hatpro_single_part2.zarr: QmUUiddsAx14WE3SP5FXJD935zvuVnsAECUuudyWnuBkkU
     ISAR_SST.zarr: QmQnG9B21YCJUbvb1o15iyJobwQQMAx3pFxHr412CMUTwU
     LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
     LICHT-LIDAR_t.zarr: QmZ6y4t1UQ4JgrNtcpnSTdX2uxeN2hsfodDDfJQETAdBzB
