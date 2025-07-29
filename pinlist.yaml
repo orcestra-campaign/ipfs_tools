@@ -569,3 +569,32 @@
     prev: QmPLxctRGhRvnm1TEXmPhdTC7G2WXQTjyQLy11FYR8SCVw
     tags:
     - all
+- cid: QmPHL6xuVaufRTbeWTLpDpzYwMEuf5hi5TSFxa9LXzfKJf
+  meta:
+    tags:
+    - eurec4a
+  name: EUREC4A v0
+- cid: QmYB6zSr7JUTRd9Bj8sJkwFMgMkKJedLSf8TFqfjECGgUA
+  meta:
+    prev: QmPHL6xuVaufRTbeWTLpDpzYwMEuf5hi5TSFxa9LXzfKJf
+    tags:
+    - eurec4a
+  name: EUREC4A v1
+- cid: QmaeF3PCCmcGMHi12t7c4aZeob3Kkj1JJ322aNwCBBtUHF
+  meta:
+    prev: QmYB6zSr7JUTRd9Bj8sJkwFMgMkKJedLSf8TFqfjECGgUA
+    tags:
+    - eurec4a
+  name: EUREC4A v2
+- cid: QmahMN2wgPauHYkkiTGoG2TpPBmj3p5FoYJAq9uE9iXT9N
+  meta:
+    prev: QmaeF3PCCmcGMHi12t7c4aZeob3Kkj1JJ322aNwCBBtUHF
+    tags:
+    - eurec4a
+  name: EUREC4A v3
+- cid: QmWcEncowNzUYEgmbHRE9rWmSVjLBsxgY1LznJCNYuXfxi
+  meta:
+    prev: QmahMN2wgPauHYkkiTGoG2TpPBmj3p5FoYJAq9uE9iXT9N
+    tags:
+    - eurec4a
+  name: EUREC4A v4
