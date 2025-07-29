@@ -158,6 +158,8 @@ products:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
       v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
+  MSG:
+    omega_SEVIRI.zarr: QmNxAG7p73BxCchb3NTv65drLJPqtKbG3ZxSoUuLLpY68P
   Radiosondes:
     RAPSODI_RS_ORCESTRA_level2.zarr: QmbZQh6TcKVaWLj2x5UxqJ2nWcY3He1qwpsVQjCcUip7wq
     RAPSODI_RS_Oscillating_ORCESTRA_level1.zarr: QmREhndxVvKtYpjRGnmQwRsQrjdfE5qkWxnTEpoU1TEEwW
