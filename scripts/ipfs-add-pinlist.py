@@ -42,9 +42,9 @@ def add_pins(pinlist):
                 continue
 
         if (name := pin.get("name")) is not None:
-            subprocess.run(["ipfs", "pin", "add", "-r", cid, "-n", name])
+            subprocess.run(["ipfs", "pin", "add", "--progress", "-r", cid, "-n", name])
         else:
-            subprocess.run(["ipfs", "pin", "add", "-r", cid])
+            subprocess.run(["ipfs", "pin", "add", "--progress", "-r", cid])
 
 
 def _tag_filter(tag, pin):
