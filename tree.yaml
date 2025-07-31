@@ -98,6 +98,9 @@ products:
       HALO-20240924a.mp4: QmSScNDjmxxfakVR1yypTBVaFcuMKYptjAwKhgNyB3vFbV
       HALO-20240926a.mp4: QmYaCACmcNZouayGMiF2g3KxsiWyvS885jaChwsjg3at2e
       HALO-20240928a.mp4: QmPgtTarn3wE5xosXN86HVwsSuDK915gUjEDTWbZ56pRrK
+    SMART:
+      Fup.zarr: bafybeia4winn7xzqchcss3ilgoyxj2rakdzrv3eswcbol5rsqgcku34zzu
+      Iup.zarr: bafybeig34sqju7y3vp7qeughc2bhr6lnjd3rcr7xm7az5duj74qybozlr4
   METEOR:
     ADCP:
       met_203_vmadcp_38khz.zarr: QmXiL1DBihoVRbomunkrH5yWbz9hH6JekjvcPDQujnkgoa
