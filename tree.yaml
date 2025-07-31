@@ -12,6 +12,7 @@ products:
   HALO:
     BACARDI.zarr: QmPHLtN2YJ3espG1Zo3sBtwsUFysowGQtATgpaKPcfyT6y
     BAHAMAS_QL.zarr: QmNZspwyTeNTvTMN3FSxaNXmjftMfZC4mA6WDy7dtAJ79k
+    BAHAMAS.zarr: Qmb7dcKBWVtnFaGPmYyamVF7WmX7bqBtpY8rGgno2ZxdC6
     position_attitude.zarr: QmPcEqDcWiP4VvTjKCBthPK21muEC819ze5SZY5LdTdF5J
     HAMP:
       full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
