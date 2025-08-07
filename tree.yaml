@@ -15,9 +15,44 @@ products:
     BAHAMAS.zarr: Qmb7dcKBWVtnFaGPmYyamVF7WmX7bqBtpY8rGgno2ZxdC6
     position_attitude.zarr: QmPcEqDcWiP4VvTjKCBthPK21muEC819ze5SZY5LdTdF5J
     HAMP:
-      full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
-      full_radar.zarr: Qmc5T6i5Vnx27fdyU3oF2gjqqS7QHTkMjyVDZRW24tXZKe
-      full_radiometer.zarr: QmSjbx8zoYBzoJRo8uYsdxAkrWsYNwZk2Y498fpfHxqoR2
+      Level_2:
+        HALO-20240809b: QmVdi8e6yR2exaUc7dv3ErQta2R7YobQGQNEcgQE9HLioj
+        HALO-20240811a: QmTQ9Su54QyYSnqyzPyXCH56R26u91FptFj2f4eFY7Eav1
+        HALO-20240813a: QmZfn4zGNjrSDAxGVB95bKyAXhjpAqcHEet2Dd1EPtZ7PF
+        HALO-20240816a: QmRSqJq1fmc16Z9r2PSwe91uiJPEz5wia9SRaf8Kr2iJpi
+        HALO-20240818a: QmfG7miRVYYKhYA69bESbHrQpKbVuLAzyaEDaE92jdda4t
+        HALO-20240821a: QmWvoVhWyaR4NqqujFwhkWpwQrDbjxwRZsDB4LtN5tGTce
+        HALO-20240822a: QmbYG2oLrwRPybxQRAnhW15H3RWzutZb3EdFx4qKW3P6d8
+        HALO-20240825a: QmeadJyHeocAgef5xohnT62dm4bEjCgDPRGuxqCBUSxuXx
+        HALO-20240827a: QmSJvASaHbMbcwmJSXAUt16X8HdyoJki3EtGkWezdTKkEF
+        HALO-20240829a: QmaVUEDFGAhndCXAVTAzCh6k6CEtgvdstujSWZ26YyA2g4
+        HALO-20240831a: Qmb8mSWsH9bHubwdyKXNL5hv6BKwZjqLoBuVcap51bFMf2
+        HALO-20240903a: QmWL5df8rzKVSPgaf7jpZZVKFugKBkpxxvPYiSMp5M6Ege
+        HALO-20240906a: QmYetjJQFEPBVtSby3m3rpUTBAemG6Y56wjtC3F97RPnaS
+        HALO-20240907a: QmRMNX2RrME9JMaDMM6Qh69rrxbGUvmsninQm3umJySK93
+        HALO-20240909a: QmeNjW59Mkf5qbbUfyD2bQT8n4hEHZvGUZH5CVZdSrA9XP
+        HALO-20240912a: QmVP82cyiU6WZTCany1qYPssjgkr8pdTR5GgSPFL9McRKE
+        HALO-20240914a: QmYoir4RmmdEiUHeZc45YtWY1jG3EfXXsGiaWkCWiZubep
+        HALO-20240916a: QmTw2u6gfWZZMgw11ofbUbvxpsLu3HuCphGLWJctftw5bt
+        HALO-20240919a: QmRe2FLZu7bVWdNd7p3HtMsJiajEVZKXnTy2RUNVQWbQZn
+        HALO-20240921a: QmUethrzJYMLg4f5oL1Yyx2SE5aMoDE256pccx5Xt1stZa
+        HALO-20240923a: QmZFSNJ5FxNpoffhHB48UxuwKSH8r5cW4QCU1zxaEmyAVe
+        HALO-20240924a: QmPJRuc1LBkQtsFGvYoExdiKEQmsDKtVnTGbDDM4GMWdN9
+        HALO-20240926a: QmTyxesAb93ssLGBTcC1rtngiDFPpuZtgp22cYNwfM515b
+        HALO-20240928a: QmRmFRf2jR8xAny6uuSK6VvjmK2DNGvXVNqGCXH9QfLtyT
+        HALO-20240929a: QmNTV2Sc9UtUjgdCuDQ2RbhzRHpBKyx9EqiXTJfTYSLFRf
+        HALO-20241105a: QmZjmwVxhrvPg5B8qbwc1Mmi9hsuLXBsJPsPFWWEDpDC4j
+        HALO-20241107a: QmRFJNv4K4dnccMZJujormu9WWvXs54LUZ7QuvnMco8RP3
+        HALO-20241110a: QmZ7CyA5gLVk6sUTQcsHWztbAfyvsaETq2VqzAN5nfJbuL
+        HALO-20241112b: QmW7kZni7Bj1Q1kBzS9qPzHDQTYLFa8UsgRTd8U1SxMheN
+        HALO-20241114b: Qmby5L2aEZckMt7SvHgr416NZhfdY5GFLZPuqu81gomhsN
+        HALO-20241116a: QmV9NTdg78eFWAMZa8gMiQCVxR9zfSDsCErVm3ym8MrqEz
+        HALO-20241119a: QmbFKvntu1H76oEyCDDhwz2HzwGmrbsaTitmYKW79rzM6H
+        PERCUSION_HALO_MIRA_L2A_all_flights_V1_0.zarr: QmaYFXzzcDe5wguNcJxKdrpd9uq6YhkS5nRqJKggtnVvYP
+      Level_3:
+        full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
+        full_radar.zarr: Qmc5T6i5Vnx27fdyU3oF2gjqqS7QHTkMjyVDZRW24tXZKe
+        full_radiometer.zarr: QmSjbx8zoYBzoJRo8uYsdxAkrWsYNwZk2Y498fpfHxqoR2
     dropsondes:
       Level_1:
         HALO-20240809b: Qmb3pvCCZFdQwKeoxskQiyfguLZBs4UWVE6iAeSwaGRvo7
