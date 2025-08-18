@@ -200,9 +200,14 @@ products:
   MSG:
     omega_SEVIRI.zarr: QmNxAG7p73BxCchb3NTv65drLJPqtKbG3ZxSoUuLLpY68P
   Radiosondes:
-    RAPSODI_RS_ORCESTRA_level2.zarr: QmbZQh6TcKVaWLj2x5UxqJ2nWcY3He1qwpsVQjCcUip7wq
-    RAPSODI_RS_Oscillating_ORCESTRA_level1.zarr: QmREhndxVvKtYpjRGnmQwRsQrjdfE5qkWxnTEpoU1TEEwW
-
+    Level_1:
+      RAPSODI_RS_INMG_ORCESTRA_level1: QmRC9RJxxmW5hrNgQsbmo8BJ6BF8EcvgLpkLHXTAhkVzWu
+      RAPSODI_RS_BCO_ORCESTRA_level1: QmcAng6BmsyQSotJJktzeTUaT9kK6ZrWrbbvws3zLtSxjt
+      RAPSODI_RS_METEOR_ORCESTRA_level1: QmVh9pJYSSbJYXMUGjqzfadeLpeJ2CHUtzC5aU4ceQXsNp
+      RAPSODI_RS_METEOR_Oscillating_ORCESTRA_level1.zarr: Qma25DTEkq5rjZAjoTfWXED4oYDgkUD4ZBehsnB4151k4u
+    Level_2:
+      RAPSODI_RS_ORCESTRA_level2.zarr: QmXysWpyXdbG9YKyBBMFs39seL7PntbPLpMQ2cuDtJVYDt
+      
 raw:
   HALO:
     radar:
@@ -407,7 +412,7 @@ raw:
   BCO:
     radiosondes: QmRjDCzXrRiVyZLxKK2pMFszqvWz6ZDvz3pZZUCNRtUBXC
   INMG:
-    radiosondes: Qma7AcymBQmTQ5NTxFizG8jgQy5qZQ8VEWn2bPUAgnmDQo
+    radiosondes: QmZfVRMf5N5m7fwZRhHph83Jt2sZdnyi4BYcL4nrCTsTss
   METEOR:
     ADCP: QmWL9dtyXo2gxte4LZjh4V4HvwQURKLMaokXraYJu7mRp8
     ceilometer: QmRo1DuEPo7UPun4bjXZ4yhi1x7ELRBuyhHnZSsv6PMrbD
@@ -416,7 +421,8 @@ raw:
     DShip:
       meteor_meteo_dship_20240923.nc: QmSvZMKWETVTymrLN32cQZqjpN1xsQkWHFj3g5jfdzzbyi
     GNSS_IWV: QmRH7MrYW8YugPnbRCcM2qUH3FhUwgtLrR41cgB2dBJm5P
-    radiosondes: QmPek1vjzTrhv3j7jFeSBYZz9LqCS8dvBKJyFTXgwpQFNk
+    radiosondes: QmTqtX8VyqXxPJKUh7qqMbFhkAzV1YXRgNtu8ZHYpdCykU
+    oscillating_radiosondes: QmbjLRYe92SS7PWzKarPCnh2EecsSMkMNDBErMWJ5kpBju
     sunphotometer: QmbysfGWPM2b15X3CzTdPS9zHLyRTauwFunTAtGo8Zmviw
     WindLidar-Abacus: QmP8hH55iceYnrwoHctDtcBy6DjChqhM9shL5zjstcr6Wf
 assets:
