@@ -204,9 +204,9 @@ products:
       RAPSODI_RS_INMG_ORCESTRA_level1: QmRC9RJxxmW5hrNgQsbmo8BJ6BF8EcvgLpkLHXTAhkVzWu
       RAPSODI_RS_BCO_ORCESTRA_level1: QmcAng6BmsyQSotJJktzeTUaT9kK6ZrWrbbvws3zLtSxjt
       RAPSODI_RS_METEOR_ORCESTRA_level1: QmVh9pJYSSbJYXMUGjqzfadeLpeJ2CHUtzC5aU4ceQXsNp
-      RAPSODI_RS_METEOR_Oscillating_ORCESTRA_level1.zarr: Qma25DTEkq5rjZAjoTfWXED4oYDgkUD4ZBehsnB4151k4u
+      RAPSODI_RS_METEOR_Oscillating_ORCESTRA_level1.zarr: QmNbZccqD1NaSM1QZg7HHFAsiwa1GJk6SmXdh4jimKUoLW
     Level_2:
-      RAPSODI_RS_ORCESTRA_level2.zarr: QmXysWpyXdbG9YKyBBMFs39seL7PntbPLpMQ2cuDtJVYDt
+      RAPSODI_RS_ORCESTRA_level2.zarr: QmdgTtrfBqw9iG5RZVSc12T1HswVMWXme1Gx2you97SnLV
       
 raw:
   HALO:
