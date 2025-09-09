@@ -164,6 +164,7 @@ products:
     LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
     LICHT-LIDAR_t.zarr: QmZ6y4t1UQ4JgrNtcpnSTdX2uxeN2hsfodDDfJQETAdBzB
     mrr_rainflag.zarr: QmYkt6UkTR7e3i8C2LDyzMEwimd85enW9hn3ntbH9YcpXH
+    Radar_Derived_Currents_M203.zarr: bafybeig3znybjnw6tzr5ek6acavwmkvd6rl7bo6mpbbfhkhweq5oexs3ja
     rain_gauge:
       Hinweise_und_Abkuerzungen.txt: bafkreifh66ejafyu2yrpz63zmavdpgbf7sihnr7svosujhladvp2paiswa
       M203_Niederschlag_Stand_240923-2227.log: QmdxMqRNRKrp9sWPCumSRMoaBKKAMTASSymYVUDswokH73
