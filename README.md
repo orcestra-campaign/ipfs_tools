@@ -26,6 +26,8 @@ Currently known `tags` are:
 
 * `all`: For "head" CIDs pointing to the whole ORCESTRA dataset
 * `aux`: For auxiliary data that should be available on processing sites, but is not part of the ORCESTRA dataset
+* `eurec4a`: For "head" CIDs pointing to the whole EUREC4A dataset
+* `gate`: For recovered data from the GATE field campaign
 
 ### Pinning the list
 
