@@ -652,3 +652,8 @@
     prev: QmRuaDianH2jryvZoehSES2nkqwLrEsbnwgYnRDLsM2cHZ
     tags:
     - all
+- cid: QmP84Nnaf8vMEUrp8Sr2sm3Xm8xxwfkFgtuGE69uUAwYau
+  name: GATE field campaign raw data (tar archives)
+  meta:
+    tags:
+    - gate
