@@ -202,12 +202,10 @@ products:
     omega_SEVIRI.zarr: QmNxAG7p73BxCchb3NTv65drLJPqtKbG3ZxSoUuLLpY68P
   Radiosondes:
     Level_1:
-      RAPSODI_RS_INMG_ORCESTRA_level1: QmRC9RJxxmW5hrNgQsbmo8BJ6BF8EcvgLpkLHXTAhkVzWu
-      RAPSODI_RS_BCO_ORCESTRA_level1: QmcAng6BmsyQSotJJktzeTUaT9kK6ZrWrbbvws3zLtSxjt
-      RAPSODI_RS_METEOR_ORCESTRA_level1: QmVh9pJYSSbJYXMUGjqzfadeLpeJ2CHUtzC5aU4ceQXsNp
+      RAPSODI_RS_ORCESTRA_level1.zarr: QmNv7YUan6zD6c6vjNU8MUmqAzHFsm8zT9p1xeAyQgWq7b
       RAPSODI_RS_METEOR_Oscillating_ORCESTRA_level1.zarr: QmNbZccqD1NaSM1QZg7HHFAsiwa1GJk6SmXdh4jimKUoLW
     Level_2:
-      RAPSODI_RS_ORCESTRA_level2.zarr: QmTvXTfSE9UxY53F7TFCzvpyAiKhoYUkHeYaudz3NsJspU
+      RAPSODI_RS_ORCESTRA_level2.zarr: QmWthfrCzN1FboGUfnL7BkRoX65zveRdTrJD9DbspTUSBx
       
 raw:
   HALO:
