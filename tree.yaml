@@ -202,8 +202,8 @@ products:
     omega_SEVIRI.zarr: QmNxAG7p73BxCchb3NTv65drLJPqtKbG3ZxSoUuLLpY68P
   Radiosondes:
     Level_1:
-      RAPSODI_RS_ORCESTRA_level1.zarr: QmNv7YUan6zD6c6vjNU8MUmqAzHFsm8zT9p1xeAyQgWq7b
-      RAPSODI_RS_METEOR_Oscillating_ORCESTRA_level1.zarr: QmNbZccqD1NaSM1QZg7HHFAsiwa1GJk6SmXdh4jimKUoLW
+      RAPSODI_RS_ORCESTRA_level1.zarr: QmVmVriqtFfR4ctr5ma2XQSm6zVGX7Fr9xERdspAqagake
+      RAPSODI_RS_METEOR_Oscillating_ORCESTRA_level1.zarr: QmW6BanyadoGWeALt5VqtQiAWqy4LYkD69BUNZgYxpGYkb
     Level_2:
       RAPSODI_RS_ORCESTRA_level2.zarr: QmWthfrCzN1FboGUfnL7BkRoX65zveRdTrJD9DbspTUSBx
       
