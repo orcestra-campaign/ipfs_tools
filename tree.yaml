@@ -48,7 +48,7 @@ products:
         HALO-20241114b: Qmby5L2aEZckMt7SvHgr416NZhfdY5GFLZPuqu81gomhsN
         HALO-20241116a: QmV9NTdg78eFWAMZa8gMiQCVxR9zfSDsCErVm3ym8MrqEz
         HALO-20241119a: QmbFKvntu1H76oEyCDDhwz2HzwGmrbsaTitmYKW79rzM6H
-        PERCUSION_HALO_MIRA_L2A_all_flights_V1_0.zarr: QmaYFXzzcDe5wguNcJxKdrpd9uq6YhkS5nRqJKggtnVvYP
+        PERCUSION_HALO_MIRA_L2A_all_flights_V1_0.zarr: QmahNWzWBZEdtwFWmSn4KHbmv34d8LBVgFqdy1abFj4L6s
       Level_3:
         full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
         full_radar.zarr: Qmc5T6i5Vnx27fdyU3oF2gjqqS7QHTkMjyVDZRW24tXZKe
