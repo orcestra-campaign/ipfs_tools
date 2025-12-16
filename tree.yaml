@@ -55,7 +55,7 @@ products:
         full_radiometer.zarr: QmSjbx8zoYBzoJRo8uYsdxAkrWsYNwZk2Y498fpfHxqoR2
     dropsondes:
       Level_1: QmSKU6RVJq8xTYtH8ji6fV3KWZvRF1BAXz4Cdnxk45W1zd
-      Level_2: QmS5FzPMedNbdivgnnfQHdseg8ozEa3qknD5FX5piNSRGa
+      Level_2: QmbeYtuGa4bMtyY4G4MwqgqLkyA6ehSEzsJpv9GawdX6np
       Level_4:
         PERCUSION_Level_4.zarr: QmdncPxFxCwgkb2hVSxnf2rv1unUxPCAqEgkZv12mXNZoP
       Level_3:
