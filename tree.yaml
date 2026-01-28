@@ -192,6 +192,8 @@ products:
       met_203_1_tsal.nc: Qmcc91KSJ18iZGzGzS1vcDfS2XGxVmhvRQtUEoeo6MwRSw
       met_203_1_tsal.zarr: QmZSVETjZ38bYHBQBMjyEadqUtE93GVqAmLCaePeDkdDoy
       DAM_DataProcessingReport_M203.pdf: Qmf3brMyYjgGCvnsJmNncDaDswcfcDhmfRz7w4x8Nnumc6
+    WindCube:
+        WLS200s-180-dbs-1397-25m.zarr: bafybeieggj743jwgsahtv56hb7ier245mxnxey56zl5bdr3iltzmm4ik4a
     WindLidar-Abacus:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
