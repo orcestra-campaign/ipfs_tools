@@ -185,6 +185,12 @@ products:
         Meteor_24_0_daily.ONEILL_20.zarr: Qmegat5VkA44FVfost5Z8v3zCydJ5TdgjJqfaGCRz678Wu
         Meteor_24_0_series.ONEILL_15.zarr: QmSrWbRqaQo73povikga1UXWMm3PNmDP7SdMTb7u9w9M3b
         Meteor_24_0_series.ONEILL_20.zarr: QmYftvziDbrhezpEHZbckFzzFiaXdS5xdrhJNqby7Se5ep
+    SEA-POL:
+      PICCOLO_level4_latlon_3D.zarr: bafybeig3ya5jezimnt3p6qrvfq2d3sxjawgzrideurodpwlz35w4fyukmu
+      PICCOLO_level4_qvp_1D.zarr: bafybeid4jwmhv7vid2r2lfxnf6uv2ouj4j5tayhykrjbyf2v3hbut2gj6m
+      PICCOLO_level4_rainrate_2D.zarr: bafybeifjgdklo6oizfe7csly6osxbo35uwwkwhk2hswcb5u6wxswz7xfba
+      PICCOLO_level4_rhi_2D.zarr: bafybeiawl46u2ku7zbud6q2jmwdjyoky2okps7uumaehbrpyvrtqksh3li
+      PICCOLO_level4_volume_3D.zarr: bafybeifsjmfqqvz6b5lhwak25amoyeflnxlbtdmvl3o5wjly3upw2g6tru
     SeaSnake:
       met_203_1_SeaSnake.nc: QmQCwR1GfrVkJojVnpf5WXyTzaN7bspXDxaGRhS6ukWhrs
       met_203_1_SeaSnake.zarr: QmXvjfzggSLwRvLyrhAo7X9o6wkHaciKRPWdGQ3fxXMzrU
@@ -192,6 +198,8 @@ products:
       met_203_1_tsal.nc: Qmcc91KSJ18iZGzGzS1vcDfS2XGxVmhvRQtUEoeo6MwRSw
       met_203_1_tsal.zarr: QmZSVETjZ38bYHBQBMjyEadqUtE93GVqAmLCaePeDkdDoy
       DAM_DataProcessingReport_M203.pdf: Qmf3brMyYjgGCvnsJmNncDaDswcfcDhmfRz7w4x8Nnumc6
+    WindCube:
+        WLS200s-180-dbs-1397-25m.zarr: bafybeieggj743jwgsahtv56hb7ier245mxnxey56zl5bdr3iltzmm4ik4a
     WindLidar-Abacus:
       v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
       v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
