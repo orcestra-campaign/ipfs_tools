@@ -186,11 +186,13 @@ products:
         Meteor_24_0_series.ONEILL_15.zarr: QmSrWbRqaQo73povikga1UXWMm3PNmDP7SdMTb7u9w9M3b
         Meteor_24_0_series.ONEILL_20.zarr: QmYftvziDbrhezpEHZbckFzzFiaXdS5xdrhJNqby7Se5ep
     SEA-POL:
-      PICCOLO_level4_latlon_3D.zarr: bafybeig3ya5jezimnt3p6qrvfq2d3sxjawgzrideurodpwlz35w4fyukmu
-      PICCOLO_level4_qvp_1D.zarr: bafybeid4jwmhv7vid2r2lfxnf6uv2ouj4j5tayhykrjbyf2v3hbut2gj6m
-      PICCOLO_level4_rainrate_2D.zarr: bafybeifjgdklo6oizfe7csly6osxbo35uwwkwhk2hswcb5u6wxswz7xfba
-      PICCOLO_level4_rhi_2D.zarr: bafybeiawl46u2ku7zbud6q2jmwdjyoky2okps7uumaehbrpyvrtqksh3li
-      PICCOLO_level4_volume_3D.zarr: bafybeifsjmfqqvz6b5lhwak25amoyeflnxlbtdmvl3o5wjly3upw2g6tru
+      PICCOLO_Sea-Pol_readme.pdf: bafkreihngujnomqgrcc6mv2rpgsj77g3u7qdnprnuttfqifscgm5xv4zke
+      PICCOLO_level4_composite_2D.zarr: bafybeigdehy7635uypwipv5xdnlvgnlbncvuyudajwejawn2llirbp2vyq
+      PICCOLO_level4_latlon_3D.zarr: bafybeia2zoneq3sj3gury4k25rtjjffcbdjgefyr4hqljrwd65ykvrhn3m
+      PICCOLO_level4_qvp_1D.zarr: bafybeifhwxvq4kh66dry6wo4s7auvdbfhur4gtmhwonw6ru2w537j53xiy
+      PICCOLO_level4_rainrate_2D.zarr: bafybeigv34pwsk3t5wlmatncnavfsfie5zyd6j36eyv57qsh6f7usn5kg4
+      PICCOLO_level4_rhi_2D.zarr: bafybeigbngdrbifkqry3hsqilx4rywi3pu4a6vf2fraf4bql3qyzoosh2m
+      PICCOLO_level4_volume_3D.zarr: bafybeifryiuhi64d6vjod6mkrfaa3rxtjrfjlv7lmvjznagzpb3q6bfyea
     SeaSnake:
       met_203_1_SeaSnake.nc: QmQCwR1GfrVkJojVnpf5WXyTzaN7bspXDxaGRhS6ukWhrs
       met_203_1_SeaSnake.zarr: QmXvjfzggSLwRvLyrhAo7X9o6wkHaciKRPWdGQ3fxXMzrU
