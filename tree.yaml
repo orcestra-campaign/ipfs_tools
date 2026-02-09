@@ -141,7 +141,7 @@ products:
       met_203_vmadcp_38khz.zarr: QmXiL1DBihoVRbomunkrH5yWbz9hH6JekjvcPDQujnkgoa
       met_203_vmadcp_75khz.zarr: QmQFoiSsoTTq3q23EBX7wCPBLnSncpuwYVZf7J7hi7U59H
     ceilometer:
-      CHM170158.zarr: QmaAiM55c9dB2zWBuoUsrb2DPycznFFEKZrVZvDt2uuuEJ
+      CHM170158.zarr: bafybeia74wnxe2nxwkcmespzjckqwt25tyhcknah3xqxxeeevbsdiawzom
     cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
     cloudnet.zarr: QmP2T84gxcabL9iF6bbbrHAvKKCsyN9RBfcpGrEWobvJgr
     CTD.zarr: QmeNTnoRcQ6bjs7XnT6eD1thazv4ct8GnECF57zn4fq2RZ
