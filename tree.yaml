@@ -52,7 +52,7 @@ products:
       Level_3:
         full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
         full_radar.zarr: Qmc5T6i5Vnx27fdyU3oF2gjqqS7QHTkMjyVDZRW24tXZKe
-        full_radiometer.zarr: QmSjbx8zoYBzoJRo8uYsdxAkrWsYNwZk2Y498fpfHxqoR2
+        full_radiometer.zarr: bafybeigmb3ngfpq2yxbx5yzr34ggdb3va4jibycqra37thtlbakqxjhoza
     dropsondes:
       Level_1:
         HALO-20240809b: Qmb3pvCCZFdQwKeoxskQiyfguLZBs4UWVE6iAeSwaGRvo7
