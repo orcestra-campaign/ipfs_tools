@@ -54,11 +54,11 @@ products:
         full_radar.zarr: Qmc5T6i5Vnx27fdyU3oF2gjqqS7QHTkMjyVDZRW24tXZKe
         full_radiometer.zarr: bafybeigmb3ngfpq2yxbx5yzr34ggdb3va4jibycqra37thtlbakqxjhoza
     dropsondes:
-      Level_1: bafybeieezlchudamlslniz2zvoknqw76zyrotzapc47wy6l3ou7unwcvle
+      Level_1: bafybeieqqc5fktpmwbluppgb4vidrrx7vv44l5e7rol6zp3e3wlbjmj2q4
       Level_2: bafybeifi5pglgpcq6onwb3yixhvghcmenkvqmcqi7qgjbrbqlgoyrvj52i
-      Level_4: bafybeicrhlyrk6lsrz5wmmlm7g5qin7rfhlnoauaky4ydpriiddp2x5jem
-      Level_3: bafybeiedd7nhvejqgszw26grskt7czw3zpgkzt37mnalp3uw5y2m3xiweq
-      Level_3_qc: bafybeibrn2mamdd7bkb7i6v2xbkiowoksuvbolvpq7udabegsgaqvejgp4
+      Level_4: bafybeibgeeqs5uhmbqy4hz4v3pihrfisiklcetisxkf63d2r473szaprwi
+      Level_3: bafybeiczbv7mycr2jois6t4dq3zwiltycomwo5xxvjqcjz2ot3newzar6q
+      Level_3_qc: bafybeidytxgujp3evqesvvuvc3vsllv6pbcu5gc2torqkz7yo6yuazwtmu
     flight_animations:
       HALO-20240811a.mp4: QmZq3bWjAAMnU96WzwG79aNdVDRJsiJYohaTX3ELGDUhfF
       HALO-20240813a.mp4: QmZvPRwxJS78imNvBxYaXZUGzggcywpN4TaXRQy3tJJruH
@@ -341,7 +341,7 @@ raw:
       HALO-20241114b: QmeEWMfE27U2rThzTkwqUXvb3ntHdjvCfqkknsDHry64Gr
       HALO-20241116a: QmSmfuDA1h67Q6cumizvjbsn2ex4gpsyUbFSWmTfbhRT53
       HALO-20241119a: QmYU8PF5AGHqzuPs8Wki8C8npFCyh5fNfRGx9ThVQ5qWYm
-    dropsondes: bafybeidu7lurmigsvs6i775a7irxfhvpow6thskaoepj7dgewy3z5trxiu
+    dropsondes: bafybeif4n7lov7syd5ragolfosqf6t7zuawexxjhtr5r2ezecvgvvj7eje
   BCO:
     radiosondes: QmRjDCzXrRiVyZLxKK2pMFszqvWz6ZDvz3pZZUCNRtUBXC
   INMG:
