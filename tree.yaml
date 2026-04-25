@@ -92,7 +92,7 @@ products:
       met_203_vmadcp_75khz.zarr: QmQFoiSsoTTq3q23EBX7wCPBLnSncpuwYVZf7J7hi7U59H
     ceilometer:
       CHM170158.zarr: bafybeia74wnxe2nxwkcmespzjckqwt25tyhcknah3xqxxeeevbsdiawzom
-    cloudcamera: QmfAjwquv4iXijQe9QZ3TmwCPHnh8riSL5XBRy863gAyqQ
+    cloudcamera: QmRUGjPn2BAEm9TUq2CJsUH4McwgCeyrex8uncXWX2wFEk
     cloudnet.zarr: QmW6GR4wfb6sPsH15iK63JF91uTTHVavvJdZ9cpjntnhVB
     CTD.zarr: QmeNTnoRcQ6bjs7XnT6eD1thazv4ct8GnECF57zn4fq2RZ
     disdrometer:
