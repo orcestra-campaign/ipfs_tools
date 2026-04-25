@@ -118,23 +118,7 @@ products:
       M203_Niederschlag_Stand_240923-2227.log: QmdxMqRNRKrp9sWPCumSRMoaBKKAMTASSymYVUDswokH73
       M203_Niederschlag_Stand_240923-2227.zarr: QmYQpz2ew8GYa58aED5h2ViYLWtq99bYWvxVNw7KuNaASs
       Regenmesser_und_PWD22.pdf: bafkreifzpdoawlrj46tweqd52uaqb5ytidenjd4imd5woztngmg4ncpjvy
-    Sunphotometer:
-      AOD:
-        Meteor_24_0_all_points.lev10.zarr: QmSZ1DjTtoD8mnPYzK2cVQ1D83Rkwba2vM5ZYF5v8TWvKd
-        Meteor_24_0_all_points.lev15.zarr: Qme1e3zbvvs2XPAUUex57jpg9wsPfQVuZ2dfAkgyBDFRMU
-        Meteor_24_0_all_points.lev20.zarr: QmNzGjuCo3JvPW8ZnnGNUDQJwg8kvL5ZYEYyyfunpXmGov
-        Meteor_24_0_daily.lev15.zarr: Qmdt1DXDf68gSSycN6U6s99zUuAxzmQbV63e1qWSBiJvQD
-        Meteor_24_0_daily.lev20.zarr: QmNbkuZgCYf2NJDAhKKi7QQYN6jLqZ9r8U6UFr6DM6js3C
-        Meteor_24_0_series.lev15.zarr: QmTHAbgJuzTom5eNPFnytLyKwHpiiVKe3A73nBCwNSVSPn
-        Meteor_24_0_series.lev20.zarr: QmNRhkWA5auEcxptBWvvqYNH1h7LjAABWHcdkreDauAijY
-      SDA:
-        Meteor_24_0_all_points.ONEILL_10.zarr: QmbXuKhzdhhJPyUJv1YXzfRzwdzMnZK1iybCWxwHau1KeM
-        Meteor_24_0_all_points.ONEILL_15.zarr: QmbtzZRAFeAADGzw7BhucrWg1gVNcLHnfRC1rQgNKKyMnM
-        Meteor_24_0_all_points.ONEILL_20.zarr: QmRRoZ9fwhPUezyJihYZKGhVkxEk1t79ykRCJMgSr9VLcy
-        Meteor_24_0_daily.ONEILL_15.zarr: QmQw35GtUYJ54oTx61qcVKAZfgw9gbgifiTPZFxCwNK9u3
-        Meteor_24_0_daily.ONEILL_20.zarr: Qmegat5VkA44FVfost5Z8v3zCydJ5TdgjJqfaGCRz678Wu
-        Meteor_24_0_series.ONEILL_15.zarr: QmSrWbRqaQo73povikga1UXWMm3PNmDP7SdMTb7u9w9M3b
-        Meteor_24_0_series.ONEILL_20.zarr: QmYftvziDbrhezpEHZbckFzzFiaXdS5xdrhJNqby7Se5ep
+    Sunphotometer: QmaeLXHCSrH624VegU9T5avxir2SSzEoQY4UvdoYznHpAb
     SEA-POL:
       PICCOLO_Sea-Pol_readme.pdf: bafkreihngujnomqgrcc6mv2rpgsj77g3u7qdnprnuttfqifscgm5xv4zke
       PICCOLO_level4_composite_2D.zarr: bafybeigdehy7635uypwipv5xdnlvgnlbncvuyudajwejawn2llirbp2vyq
