@@ -88,39 +88,39 @@ products:
       Iup.zarr: bafybeig34sqju7y3vp7qeughc2bhr6lnjd3rcr7xm7az5duj74qybozlr4
   METEOR:
     ADCP:
-      met_203_vmadcp_38khz.zarr: QmXiL1DBihoVRbomunkrH5yWbz9hH6JekjvcPDQujnkgoa
-      met_203_vmadcp_75khz.zarr: QmQFoiSsoTTq3q23EBX7wCPBLnSncpuwYVZf7J7hi7U59H
+      met_203_vmadcp_38khz.zarr: bafybeieli3hwulxcvqqan2f62lfajswqzbbbhmueenjaubc6zfxukjc2ke
+      met_203_vmadcp_75khz.zarr: bafybeia4pgtryncxt4pexfs2gyvgxn4cob43mfijkdo2alwcxgorpfn3va
     ceilometer:
       CHM170158.zarr: bafybeia74wnxe2nxwkcmespzjckqwt25tyhcknah3xqxxeeevbsdiawzom
-    cloudcamera: QmRUGjPn2BAEm9TUq2CJsUH4McwgCeyrex8uncXWX2wFEk
-    cloudnet.zarr: QmW6GR4wfb6sPsH15iK63JF91uTTHVavvJdZ9cpjntnhVB
-    CTD.zarr: QmeNTnoRcQ6bjs7XnT6eD1thazv4ct8GnECF57zn4fq2RZ
+    cloudcamera: bafybeiboq3nvwkggfk2u47a3eknrq75ajthxe66adfzyyowj6bnx5f3ssu
+    cloudnet.zarr: bafybeidtfyua2vmmrpnhbl6nj57x2ynowaceghdapyetc6lnrpjii2tlli
+    CTD.zarr: bafybeihoghhgi655g7arw2ubtpudbq4c4hpwjlrwghcex3snu7f36imjgq
     disdrometer:
-      Disdro_README_ORCESTRA.pdf: QmZm7BXUsDbHXgxD4aUUR7WgQ4rSQojXjDMQn7kagXt6BY
-      DSD_METEOR1_RES.nc: QmYSgd5XxJthgmnCznoUijEHPmBk2VnK28FQBCDiGR8Mvn
-      DSD_METEOR2_RES.nc: QmYbci6hGkhaL97qMtYwoSbwrCW1AEuWi1hdMHwaNLEmee
-      DSD_METEOR_merged.nc: QmQovLAPfRo8Dxnsno1mSjY4ZW6DycmoHxsiFM3fyY1y5V
-      DSD_METEOR1_RES.zarr: QmTpyBWDospfcLFdFqWg5FLeSH6cLZwxxoq6vk2wMDKUqt
-      DSD_METEOR2_RES.zarr: QmNUpGrBgQa4mpLmbKZwH71u9suxub3tnv99cEZ5pJBNUQ
-      DSD_METEOR_merged.zarr: Qme2WqrMLvY6gtuBgrfoymNgVAinKqmJzENrbcGA5zFax9
-    DShip.zarr: QmSSrT1UdtocfQS5yWSHFEJwJjqcNXjq2F1QfvNgLuEqSN
-    GNSS_IWV.zarr: QmZ8qAy5TAideiPua2Ri2DwU1rRfZjiGLJkbSzJDN2bfxA
+      Disdro_README_ORCESTRA.pdf: bafybeifjwrw25gouk6upm7h2numo5zujret7vkvlehaqoux52m3fxqvtb4
+      DSD_METEOR1_RES.nc: bafybeiewecchxi2qxfjf4d3xgcu5zhm3ukpngjoxtnxadcpt2a6allqrg4
+      DSD_METEOR2_RES.nc: bafybeieynji6cqm537uftdpz5mrzm4bhs2t4xla76mvrabjsrryrskpkj4
+      DSD_METEOR_merged.nc: bafybeibewo4bv4xr5ng5zjdb4dhxhrrotkiy4sn4fi66keklaxsvnr6xkq
+      DSD_METEOR1_RES.zarr: bafybeicrrokylncpyjgs52c6526otqbqxcxhmkt6mkqovya2xvt2n3yo54
+      DSD_METEOR2_RES.zarr: bafybeiacc53awulhrttttkdwd6uktvb3bfbsyac5g4ww7rkujigkalmkfe
+      DSD_METEOR_merged.zarr: bafybeihjcwsecgpmsjxoo5peqafnuqfnalu3ya3vtibwl7qkm76izsnuei
+    DShip.zarr: bafybeib5awa3le6nxi4rgepn2mwxj733aazpkmgtcpa3uc2744gxv7op44
+    GNSS_IWV.zarr: bafybeifanfvmxia7nfeuros7gl3ouv3qb5cmg4dczl6ekkjuk7gv66w424
     HATPRO:
-      hatpro_multi.zarr: QmddARJC6MXoDZBqPLZfmTgseHmMmo3ozdqxGE1ZzzGQXz
-      hatpro_single.zarr: QmdcdANaRq2VAZT8kQUUKQpebtzSUju8ztcAXXirEgrFtp
-    ISAR_SST.zarr: QmQnG9B21YCJUbvb1o15iyJobwQQMAx3pFxHr412CMUTwU
-    LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
-    LICHT-LIDAR_t.zarr: QmZ6y4t1UQ4JgrNtcpnSTdX2uxeN2hsfodDDfJQETAdBzB
+      hatpro_multi.zarr: bafybeihddiylirtiv64yo74wzt7zok545yowhiiu23kjonvz2wl57eunze
+      hatpro_single.zarr: bafybeihc63mpkfatnvl6z5hze2eijzwqr6o3ohubhi5i66dvos4qjcssvu
+    ISAR_SST.zarr: bafybeibei32rn7fcyrrhhx3gfsdz2yonze6rpqvvyih2avpxb74qqlqss4
+    LICHT-LIDAR_b.zarr: bafybeidhokylvrnu447th4z3npevzflfmtjsva2icf7gbyp7mmsyyeknhm
+    LICHT-LIDAR_t.zarr: bafybeie754xlrs75yw2vnqrneuh23vsalzagfputvjnbqnsi4fvyjjtfrq
     meteor_log: bafybeidkl4ugopqpyywn6hot4mvsygqsf4dz4ld2ddy75hty3oufgqkopa
     meteor_stations: bafybeiekpjsfkslf2drgqtigah7a2y33zuzv6tjlrwgsxqv6plwebbnr5m
-    mrr_rainflag.zarr: QmYkt6UkTR7e3i8C2LDyzMEwimd85enW9hn3ntbH9YcpXH
+    mrr_rainflag.zarr: bafybeie2zhy2rkepcqh6tc5lk75blv372rvpfnnrhsyl6efscdgmugld4a
     Radar_Derived_Currents_M203.zarr: bafybeig3znybjnw6tzr5ek6acavwmkvd6rl7bo6mpbbfhkhweq5oexs3ja
     rain_gauge:
       Hinweise_und_Abkuerzungen.txt: bafkreifh66ejafyu2yrpz63zmavdpgbf7sihnr7svosujhladvp2paiswa
-      M203_Niederschlag_Stand_240923-2227.log: QmdxMqRNRKrp9sWPCumSRMoaBKKAMTASSymYVUDswokH73
-      M203_Niederschlag_Stand_240923-2227.zarr: QmYQpz2ew8GYa58aED5h2ViYLWtq99bYWvxVNw7KuNaASs
+      M203_Niederschlag_Stand_240923-2227.log: bafybeihiaurdoe3c6j25jntk2p6zf5uqbkjiqtommxnzoyoz653nwyngoy
+      M203_Niederschlag_Stand_240923-2227.zarr: bafybeievu3hvrmcb7bh6fv4xqsx3kzsreokwknsk2mfz62xp2fspyzrrta
       Regenmesser_und_PWD22.pdf: bafkreifzpdoawlrj46tweqd52uaqb5ytidenjd4imd5woztngmg4ncpjvy
-    Sunphotometer: QmaeLXHCSrH624VegU9T5avxir2SSzEoQY4UvdoYznHpAb
+    Sunphotometer: bafybeifw2qrevl4ckmncq4zqpwivorcgketyyyjap5po7xkvkykjhi5jpa
     SEA-POL:
       PICCOLO_Sea-Pol_readme.pdf: bafkreihngujnomqgrcc6mv2rpgsj77g3u7qdnprnuttfqifscgm5xv4zke
       PICCOLO_level4_composite_2D.zarr: bafybeigdehy7635uypwipv5xdnlvgnlbncvuyudajwejawn2llirbp2vyq
@@ -130,18 +130,18 @@ products:
       PICCOLO_level4_rhi_2D.zarr: bafybeigbngdrbifkqry3hsqilx4rywi3pu4a6vf2fraf4bql3qyzoosh2m
       PICCOLO_level4_volume_3D.zarr: bafybeifryiuhi64d6vjod6mkrfaa3rxtjrfjlv7lmvjznagzpb3q6bfyea
     SeaSnake:
-      met_203_1_SeaSnake.nc: QmQCwR1GfrVkJojVnpf5WXyTzaN7bspXDxaGRhS6ukWhrs
-      met_203_1_SeaSnake.zarr: QmXvjfzggSLwRvLyrhAo7X9o6wkHaciKRPWdGQ3fxXMzrU
+      met_203_1_SeaSnake.nc: bafybeia3xwo26s4w2svogjpw2tct4q4j5pcunytbghxwj4pvskyxk6qxmq
+      met_203_1_SeaSnake.zarr: bafybeieoosfm33u47expejxhccectau4oxrp2jg4efzrqn743af6tzxide
     thermosalinograph:
-      met_203_1_tsal.nc: Qmcc91KSJ18iZGzGzS1vcDfS2XGxVmhvRQtUEoeo6MwRSw
-      met_203_1_tsal.zarr: QmZSVETjZ38bYHBQBMjyEadqUtE93GVqAmLCaePeDkdDoy
-      DAM_DataProcessingReport_M203.pdf: Qmf3brMyYjgGCvnsJmNncDaDswcfcDhmfRz7w4x8Nnumc6
+      met_203_1_tsal.nc: bafybeigt7njqrsi5hpherqsomwzovdoxxuotf6evuqblpkg6tcqmttrpca
+      met_203_1_tsal.zarr: bafybeife55jwmknrq7heen6mu3vayxxl3m2xuqb6ekofm5pw7whpsxh4mq
+      DAM_DataProcessingReport_M203.pdf: bafybeihyhcjkj3ichocic3b45vueai25gspahin4v2g3ycdhiik5znryom
     WindCube:
-        WLS200s-180-dbs-1397-25m.zarr: bafybeieggj743jwgsahtv56hb7ier245mxnxey56zl5bdr3iltzmm4ik4a
+      WLS200s-180-dbs-1397-25m.zarr: bafybeieggj743jwgsahtv56hb7ier245mxnxey56zl5bdr3iltzmm4ik4a
     WindLidar-Abacus:
-      v0.0.zarr: QmQxJLMAuwd7hCAJPkFAufULo9fqWaPv1DyNLDsKVNB7wv
-      v1.0.zarr: Qmbnt4feM7NF2zrWfTNkmpyiFBErCDseyi1TsiG2EeEP2r
-      v2.0.zarr: QmPJuf78jNiMfmLxhM38ygbYu3kNWSXpHwNPsi8YiTn6wA
+      v0.0.zarr: bafybeibg3e7kodnqrgjs5576soeq7gwcqjzdity56zlmz2bw27ucrip4fe
+      v1.0.zarr: bafybeigh4aqyy3zmhqteq4y53zknarkmy7rwe6sctcwcskuyw4paap6kxm
+      v2.0.zarr: bafybeiaonfwwrbianryo4nejd4fyfqjcrofo6wciz62aeuzpeplcqu6zqe
   MSG:
     omega_SEVIRI.zarr: QmNxAG7p73BxCchb3NTv65drLJPqtKbG3ZxSoUuLLpY68P
   Radiosondes:
