@@ -111,6 +111,8 @@ products:
     ISAR_SST.zarr: QmQnG9B21YCJUbvb1o15iyJobwQQMAx3pFxHr412CMUTwU
     LICHT-LIDAR_b.zarr: QmVJU8nqwBTB7dxbHvs7SL5v4LjdiD3792n4e1p1dBrtyQ
     LICHT-LIDAR_t.zarr: QmZ6y4t1UQ4JgrNtcpnSTdX2uxeN2hsfodDDfJQETAdBzB
+    meteor_log: bafybeidkl4ugopqpyywn6hot4mvsygqsf4dz4ld2ddy75hty3oufgqkopa
+    meteor_stations: bafybeiekpjsfkslf2drgqtigah7a2y33zuzv6tjlrwgsxqv6plwebbnr5m
     mrr_rainflag.zarr: QmYkt6UkTR7e3i8C2LDyzMEwimd85enW9hn3ntbH9YcpXH
     Radar_Derived_Currents_M203.zarr: bafybeig3znybjnw6tzr5ek6acavwmkvd6rl7bo6mpbbfhkhweq5oexs3ja
     rain_gauge:
