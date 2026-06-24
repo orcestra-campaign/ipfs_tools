@@ -50,7 +50,7 @@ products:
         HALO-20241119a: QmbFKvntu1H76oEyCDDhwz2HzwGmrbsaTitmYKW79rzM6H
         PERCUSION_HALO_MIRA_L2A_all_flights_V1_0.zarr: QmahNWzWBZEdtwFWmSn4KHbmv34d8LBVgFqdy1abFj4L6s
       Level_3:
-        full_iwv.zarr: QmSfQ1poWRcnJxQdxLgTL1yt5Hr2JGpmnLLiRPYjMoHoz4
+        PERCUSION_HAMP_IWV_IWP_LWP_TLWP.zarr: bafybeihvsq73hokuex44oueqvnotaeoikwcs5yyiydtc777td2ldcm6z4y
         full_radar.zarr: Qmc5T6i5Vnx27fdyU3oF2gjqqS7QHTkMjyVDZRW24tXZKe
         full_radiometer.zarr: bafybeigmb3ngfpq2yxbx5yzr34ggdb3va4jibycqra37thtlbakqxjhoza
     dropsondes:
