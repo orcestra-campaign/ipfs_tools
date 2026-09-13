@@ -16,10 +16,11 @@ It may be necessary to pin only subsets of all CIDs depending on available stora
 
 
 ```
-cid: Qmas...
-name: ORCESTRA HEAD v42
+cid: bafybei...
+name: Super cool measurement taken during ORCESTRA
 meta:
-  tags: [all]
+  tags:
+  - orcestra
 ```
 
 Currently known `tags` are:
@@ -28,6 +29,7 @@ Currently known `tags` are:
 * `aux`: For auxiliary data that should be available on processing sites, but is not part of the ORCESTRA dataset
 * `eurec4a`: For "head" CIDs pointing to the whole EUREC4A dataset
 * `gate`: For recovered data from the GATE field campaign
+* `orcestra`: For data from the ORCESTRA field campaign
 
 ### Pinning the list
 
@@ -37,20 +39,11 @@ A very simple way to pin everything contained in the pinlist would be using [yq]
 cat pinlist.yaml | yq .[].cid | xargs ipfs pin add -r
 ```
 
-A simple way to e.g pin only dropsonde data could be:
+A simple way to, e.g., pin only data collected during the ORCESTRA campaign could be:
 
 ```bash
-cat pinlist.yaml | yq '.[] | select(.meta.tags.[] == "dropsonde").cid' | xargs ipfs pin add -r
+cat pinlist.yaml | yq '.[] | select(.meta.tags.[] == "orcestra").cid' | xargs ipfs pin add -r
 ```
-
-## HEAD CIDs
-
-The most common entry in the pinlist is the so-called "HEAD CID", which is a recursive pin pointing to the entire ORCESTRA dataset.
-This CID is intended for easy mirroring of the whole dataset at different locations (e.g. DKRZ in Germany, CIMH in Barbados).
-
-The HEAD CID can be created by writing the whole dataset tree to the [Mutable File System](https://docs.ipfs.tech/concepts/file-systems/#mutable-file-system-mfs) (MFS).
-The structure of the dataset tree and the associated CIDs are defined by the `tree.yaml` file.
-The convenience script `scripts/write_tree.py` can be used to write the tree currently described in `tree.yaml` to the MFS and retrieve the HEAD CID.
 
 ## Asynchronous pinning
 
