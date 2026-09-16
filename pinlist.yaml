@@ -1056,3 +1056,153 @@
   meta:
     tags:
     - orcestra
+- cid: bafybeih6kxwy6twyims5fr2h76ef7tdqdepltd5qkrdaie6zu4h56yo47m
+  name: GATE buoy measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeih7w2g7vwzzauhhr6lk3vveu24w7gna4o7uywpjuehzhuubn2atu4
+  name: GATE radiosonde atmospheric profiles
+  meta:
+    tags:
+    - gate
+- cid: bafybeiffqkpsgr4pbn6eqbanz7tpbwctdzh2ocdl3pkbob5ddsnwtoisli
+  name: GATE aircarft dropsonde measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeidzpd5upvnylpqr247u6btltu3nueukwys7marxv2k24ntopj5iou
+  name: GATE RV Researcher ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeia6v5oamtynxnqq2hrtq27t4364xjs2kf2cbjoowza47uyw4gh32e
+  name: GATE RV James M. Gilliss ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeiac5k7cnzp56lqivzp2iy4hs2ztjpohtruoygbihkantdqrbdtavu
+  name: GATE RV Dallas ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeihahfpqsu7bvg2t5r7go6do6aggb5g6pz4p7oc5uhq6frihqldcnm
+  name: GATE RV Fay ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeib3te2yt7pkodkllivlw5ox4aaifh5yi56fzsbt3lfbuc55zqyefm
+  name: GATE RV Dallas ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeiflavnoniy5rx7xvdxsu6bayrarlqdtjqd7uecfzemjz6pnnbsk3y
+  name: GATE RV Dallas ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeic5elbr47dj2mzxuwe6r7xojyt2fmu4kmjraqgrfzch34ygutwcvu
+  name: GATE RV Fay ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeih6t6dfjazjidoeutnlpn3yt6phfysddno3izyc4wqrl7gpkx36eu
+  name: GATE RV Researcher ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeibersvcslljz6oxpgalen2vwtn72g6k363xoqiv2wg3myugu4e5ku
+  name: GATE RV James M. Gilliss ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeifqht6q7hhaj3uwd5fpfwe7j624yzhobksigrvpj7oxuwljftabpq
+  name: GATE RV Planet ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeid7kfvlsfium55srzebk5jwjx3566nzoviafei5uuchacfsmm3hxy
+  name: GATE RV James M. Gilliss ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeia245wg2a3r3oet7qpuwiignzzsfg4t23w3w7pnqfgvoa4jip3pam
+  name: GATE RV Meteor ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeiclwv6miedtvnvml3w5y3oh7amr55pkpjndszp6m34kytyuclprxe
+  name: GATE RV Researcher ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeibgtnnadhmcdrvy4izdsgncmzqhl5bztcpeutb2i7o6ufg5dkhatq
+  name: GATE RV Dallas ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeiayrpmw6e7zd5w3vyzkjniihgqdjvz7ku33gckt5iz3wz3h3mrbwi
+  name: GATE RV James M. Gilliss ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeibf5gpvvzcesmhw6fu2ssxyiixc3lb7gxozp4kl7n5scl6lgzbqc4
+  name: GATE RV Researcher ship measurements
+  meta:
+    tags:
+    - gate
+- cid: bafybeiezefd7zugmlhuupaj2ltzoxkbybelzlzxf4dsbdmr6eltvep7et4
+  name: Douglas DC-7C CEV/AMOR atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeib74rgi6pvz5pbwmcprniqdq6kfooz4i5jaegkexyswd6zf24xbjq
+  name: NOAA DC-6 atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeicrygz3p34b7xvtqwo2av5fbcy2w2zmosyjp2b46tkyjmuwbtawzy
+  name: NOAA 39 Charlie atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeibgrr5bvphu5sduwbllzm44psbonfwhxfcvh6igfwe6cc4rygcbim
+  name: NCAR Queen Air atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeibrqy7wygkxel5ismmldaju4kmuqy6sy3zjxurdrjhejelwpizs6e
+  name: NCAR Electra atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeid4sg7r64sasuljvprjzpjoeifff65xwrhbikwayyfelt74nfbyb4
+  name: NCAR Sabreliner atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeiazaw6vqr3nbhivetaiiwvmip2mmwxgwpyahmv6voyinfqubybl5e
+  name: Douglas DC-7C CEV/AMOR atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeifcvbfh6vsgthyz4allcskuinm6hewkwdondkupgweyhmmqw74dgq
+  name: UK HERCULES XV208 atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeidjo25ixufydls2kydqtzdgo7qo5rt66ghv7i2nlp5mnb2sicf7ja
+  name: NOAA US-C130 MEANS atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeieykyhcnns4f52z6lqg62jrp47imfjrfqu7zefcjyszrkh56qacqu
+  name: NASA Convair 990 atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
+- cid: bafybeiezrs252fciepksm2wby3vciwoz5ierdlxqijgrf3cer6yiqpc3wy
+  name: UK HERCULES XV208 atmospheric in-flight measurements during GATE
+  meta:
+    tags:
+    - gate
