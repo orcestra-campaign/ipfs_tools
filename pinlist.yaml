@@ -1206,3 +1206,10 @@
   meta:
     tags:
     - gate
+- cid: bafybeic7yakug2r2dbxsk6b5oi7ajvztlxu3agk3dsaho6rc5weaod6qdy
+  name: Broadband solar and thermal-infrared, upward and downward irradiance
+    measured by BACARDI during the PERCUSION field campaign
+  meta:
+    prev: bafybeiaoalflfftmsfqakenwp5gpxnxfjhaxkrjq7gpa4ucpbwj5jdb6qi
+    tags:
+    - orcestra
