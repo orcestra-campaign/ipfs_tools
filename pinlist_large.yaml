@@ -3,3 +3,8 @@
   meta:
     tags:
     - orcestra
+- cid: bafybeieuwgibicmq3wkewlhdpvyqan32aiepktum27dsh4gx5kehxc2jsm
+  name: Stereographic retrieved cloud geometry from specMACS
+  meta:
+    tags:
+    - orcestra
